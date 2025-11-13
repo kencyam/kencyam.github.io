@@ -36,3 +36,4 @@ const Card = ({ title, subtitle, content }: CardProps) => {
 
 export default Card;
 */
+export {}
