@@ -25,6 +25,8 @@ export default Tabs;*/
 import React, { ReactElement, useState } from "react"
 import TabTitle from "./TabTitle"
 
+import "./Tab.css";
+
 type Props = {
   children: ReactElement[]
 }
@@ -33,7 +35,7 @@ const Tabs: React.FC<Props> = ({ children }) => {
   const [selectedTab, setSelectedTab] = useState(0)
 
   return (
-    <div>
+    <div className='project-tab'>
       <ul>
         {children.map((item, index) => (
           <TabTitle

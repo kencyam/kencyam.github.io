@@ -1,22 +1,5 @@
-/*export const TabTitleName = ({ text }: { text: string }) => {
-    return {text};
-}
+import './Tab.css';
 
-
-interface Props {
-    title: React.ReactNode;
-}
-
-const TabTitle: React.FC<Props> = ({title}) => {
-    return (
-        <li>
-            {title}
-        </li>
-    );
-}
-
-export default TabTitle;
-*/
 
 import React from "react"
 

@@ -1,6 +1,14 @@
 //Main pages
 import AboutMe from "./aboutmepage";
 import Landing from "./landingpage";
-import Projects from "./projects/projectspage"; //TODO:When changed to TSX, make sure to change this as well
+import Projects from "./projects/projectspage";
+import MusicBlog from "./music-blog/music-blog-front-page";
 
-export {AboutMe,Landing, Projects};
+
+
+//Minor pages (project)
+import Osucompare from "./projects/osucompare/osucompare";
+
+//Blog pages?
+
+export {AboutMe,Landing, Projects,Osucompare,MusicBlog};
