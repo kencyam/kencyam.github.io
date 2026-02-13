@@ -8,7 +8,7 @@ import Cards from "../webpage-components/Card/Cards";
 import blank from "./images/blank.png";
 import gamebg1 from "./images/cromadic.png";
 import gamebg2 from "./images/copyright.png";
-import gamebg3 from "./images/gameshow.png";
+//import gamebg3 from "./images/gameshow.png";
 import gamebg4 from "./images/kemono.png";
 
 //CSS
@@ -35,7 +35,7 @@ class Projects extends Component {
                 <CustomCard
                   title="Gameshow Game"
                   description="Networked gameshow themed multiplayer party game. Created with Unity for class project."
-                  image={gamebg3}
+                  image={blank}
                   url="https://github.com/kcyam/Gameshow-Game"
                   buttontext="Github"
                 ></CustomCard>
