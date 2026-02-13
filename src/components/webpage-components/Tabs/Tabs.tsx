@@ -22,20 +22,20 @@ const Tabs: React.FC<Props> = ({ title }) => {
 
 export default Tabs;*/
 
-import React, { ReactElement, useState } from "react"
-import TabTitle from "./TabTitle"
+import React, { ReactElement, useState } from "react";
+import TabTitle from "./TabTitle";
 
 import "./Tab.css";
 
 type Props = {
-  children: ReactElement[]
-}
+  children: ReactElement[];
+};
 
 const Tabs: React.FC<Props> = ({ children }) => {
-  const [selectedTab, setSelectedTab] = useState(0)
+  const [selectedTab, setSelectedTab] = useState(0);
 
   return (
-    <div className='project-tab'>
+    <div className="project-tab">
       <ul>
         {children.map((item, index) => (
           <TabTitle
@@ -48,7 +48,7 @@ const Tabs: React.FC<Props> = ({ children }) => {
       </ul>
       {children[selectedTab]}
     </div>
-  )
-}
+  );
+};
 
 export default Tabs;

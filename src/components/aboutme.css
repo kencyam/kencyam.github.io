@@ -1,44 +1,43 @@
-.about-text{
-    background: rgba(245, 11, 11, 0.6);
-    width: 50%;
-    margin: auto;
-    margin-top: 10vh;
-    border-radius: 25px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    padding-left: 1%;
+.about-text {
+  background: rgba(245, 11, 11, 0.6);
+  width: 50%;
+  margin: auto;
+  margin-top: 10vh;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 1%;
 }
 
-.about-text h1{
-    font-size: 5em;
-    color: white;
-    -webkit-text-stroke: 1.5px black;
-    font-weight: bold;
-    text-align: center;
-    font: Verdana;
-    
+.about-text h1 {
+  font-size: 5em;
+  color: white;
+  -webkit-text-stroke: 1.5px black;
+  font-weight: bold;
+  text-align: center;
+  font: Verdana;
 }
 
-.about-paragraph{
-    background: rgba(245, 11, 11, 0.6);
-    width: 70%;
-    margin: auto;
-    border-radius: 25px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding-top: 3%;
-    padding-bottom: 1%;
-    padding-left: 3%;
-    padding-right: 3%;
-    margin-top: 5vh;
+.about-paragraph {
+  background: rgba(245, 11, 11, 0.6);
+  width: 70%;
+  margin: auto;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 3%;
+  padding-bottom: 1%;
+  padding-left: 3%;
+  padding-right: 3%;
+  margin-top: 5vh;
 }
 
-.about-paragraph p{
-    font-size: 2em;
-    color: white;
-    line-height: normal;
+.about-paragraph p {
+  font-size: 2em;
+  color: white;
+  line-height: normal;
 }
