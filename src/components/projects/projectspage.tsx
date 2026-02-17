@@ -8,7 +8,7 @@ import Cards from "../webpage-components/Card/Cards";
 import blank from "./images/blank.png";
 import gamebg1 from "./images/cromadic.png";
 import gamebg2 from "./images/copyright.png";
-import gamebg3 from "./images/gameshow.png";
+import gamebg3 from "./images/gameshow.jpg";
 import gamebg4 from "./images/kemono.png";
 
 //CSS
