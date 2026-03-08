@@ -44,7 +44,7 @@
 .header-text:hover {
   font: Arial;
   font-size: 20px;
-  color: pink;
+  color: rgb(180, 180, 180);
 }
 
 .profile-links {
@@ -60,13 +60,168 @@
 }
 
 .Landing {
-  background: url(./images/marble_bg.png);
-  background-position: center;
-  background-repeat: repeat;
+  background-color: lightgray;
   background-size: cover;
   height: 100%;
   min-height: 100vh;
   margin: auto;
   position: relative;
-  flex: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.text-body {
+  font: Arial;
+  font-size: 20px;
+  color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+/*Three column format (sidebar, main, sidebar)*/
+.three-container {
+  float: left;
+  width: 100%;
+  margin: 0 auto;
+  height: 80%;
+  flex-direction: column;
+}
+
+.box-left {
+  float: left;
+  background-color: gray;
+  width: 20%;
+  margin-top: 5vh;
+  padding-top: 2%;
+  height: auto;
+  text-align: center;
+}
+
+.box-left a {
+  color: blue;
+  text-decoration: none;
+}
+.box-left a:hover {
+  color: darkblue;
+}
+
+.box-left a:visited {
+  color: purple;
+}
+
+.box-left ul {
+  font-size: 2rem;
+  padding-left: 0;
+}
+
+.box-left li {
+  list-style: none;
+  font-size: 1rem;
+}
+
+.box-left h2 {
+  font-size: 2rem;
+}
+.box-left h3 {
+  font-size: 1rem;
+}
+
+.box-middle {
+  float: left;
+  background-color: #999;
+  width: 58%;
+  padding-top: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-top: 5vh;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-bottom: 5%;
+}
+
+.box-middle h1 {
+}
+
+.box-middle h2 {
+  font-size: medium;
+}
+.box-middle h3 {
+  font-size: xx-large;
+  margin-bottom: 5%;
+}
+.box-middle h4 {
+  font-size: xx-large;
+}
+.box-middle h5 {
+  font-size: large;
+}
+.box-middle h6 {
+}
+
+.box-middle p {
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 6%;
+}
+
+.box-middle iframe {
+  aspect-ratio: 16/9;
+  width: 100%;
+  height: 100%;
+}
+.box-right {
+  padding-top: 2%;
+  float: left;
+  background-color: gray;
+  width: 20%;
+  height: 200px;
+  margin-top: 5vh;
+}
+
+.box-right ul {
+  font-size: 2rem;
+  margin-left: 0;
+}
+
+.box-right li {
+  list-style: none;
+  font-size: 1rem;
+}
+
+.box-right a {
+  color: blue;
+  text-decoration: none;
+}
+.box-right a:hover {
+  color: darkblue;
+}
+
+.box-right a:visited {
+  color: purple;
+}
+
+.article-date {
+  font-size: small;
+}
+
+/*Two container in middle*/
+.two-container-middle-box {
+  float: left;
+  width: 100%;
+  margin: 0 auto;
+  height: 80%;
+  flex-direction: column;
+}
+
+.middle-box-left {
+  float: left;
+  width: 50%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  height: auto;
+}
+.middle-box-right {
+  float: left;
+  width: 50%;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }

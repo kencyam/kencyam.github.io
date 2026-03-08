@@ -1,5 +1,7 @@
 import { Route, Routes, HashRouter, Link } from "react-router";
 
+//Whole file will be transformed or defunct after I transfer into Root.tsx completely
+
 //Main Pages
 import {
   AboutMe,
