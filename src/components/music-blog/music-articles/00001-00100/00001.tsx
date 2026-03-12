@@ -8,7 +8,7 @@ export default function MusicArticle() {
   return (
     <MusicArticleFormat
       title="2025 Billboard Hit Songs I Liked"
-      datePublished="March 7, 2026"
+      datePublished="March 11, 2026"
       tag={[MusicTags.RankingLists]}
     >
       <p>
@@ -874,11 +874,11 @@ export default function MusicArticle() {
             I've never heard of Mariah the Scientist but I've been definitely
             missing out. She has such a lovely, silky, lowkey voice. I don't
             know why I'm so back and forth with R&B like this. I should
-            theoretically also put Kehlani on here too, but I didn't. Maybe I
-            just want the singer's profession of love more straightforward. Also
-            not sure if intentional but the song title's pretty clever. She
-            proclaims how sad she is alone, and when she's next to him, she's
-            burning extra hot with passion.
+            theoretically also put similar artists like Kehlani on here too, but
+            I didn't. Maybe I just want the singer's profession of love more
+            straightforward. Also not sure if intentional but when she is
+            despairingly alone or when she's fervently passionate next to him,
+            she's "Burning Blue" both ways. Pretty clever.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
