@@ -139,6 +139,7 @@
 }
 
 .box-middle h1 {
+  font-size: xx-large;
 }
 
 .box-middle h2 {
@@ -155,6 +156,7 @@
   font-size: large;
 }
 .box-middle h6 {
+  font-size: middle;
 }
 
 .box-middle p {
