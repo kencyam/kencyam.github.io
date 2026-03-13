@@ -19,37 +19,40 @@ import {
 import MusicArticle00001 from "./components/music-blog/music-articles/00001-00100/00001";
 //#endregion
 
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <Root />,
-    errorElement: <ErrorPage />,
-    children: [
-      {
-        path: "aboutme/",
-        element: <AboutMe />,
-      },
-      {
-        path: "",
-        element: <Landing />,
-      },
-      {
-        path: "projects/",
-        element: <Projects />,
-      },
-      {
-        path: "musicblog/",
-        element: <MusicBlog />,
-        children: [
-          {
-            path: "00001/",
-            element: <MusicArticle00001 />,
-          },
-        ],
-      },
-    ],
-  },
-]);
+const router = createBrowserRouter(
+  [
+    {
+      path: "/",
+      element: <Root />,
+      errorElement: <ErrorPage />,
+      children: [
+        {
+          path: "aboutme/",
+          element: <AboutMe />,
+        },
+        {
+          path: "",
+          element: <Landing />,
+        },
+        {
+          path: "projects/",
+          element: <Projects />,
+        },
+        {
+          path: "musicblog/",
+          element: <MusicBlog />,
+          children: [
+            {
+              path: "00001/",
+              element: <MusicArticle00001 />,
+            },
+          ],
+        },
+      ],
+    },
+  ],
+  { basename: "/" },
+);
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
