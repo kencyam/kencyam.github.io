@@ -1398,9 +1398,12 @@ export default function MusicArticle() {
             chose to take the melody of Kelly Clarkson's "Already Gone". (Yes,
             those are all compliments.) It took me back to the 2000s. Nate Smith
             had previous bigger hits with "World On Fire" and "Bulletproof",
-            which were pretty good. This one though, instant favorite. There's
-            always a surprise country song that I adore every year, and Nate
-            Smith won this year's award.
+            which were pretty good. This one though, instant favorite. Nate here
+            is just so appreciative of his girlfriend for healing him. He
+            acknowledged that he was a mess. He probably hurt her in some ways
+            (and when I mean hurt, I don't mean dealbreakers like abuse), yet
+            she still stuck by him. There's always a surprise country song that
+            I adore every year, and Nate Smith won this year's award.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
