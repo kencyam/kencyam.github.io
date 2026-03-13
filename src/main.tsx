@@ -21,7 +21,7 @@ import MusicArticle00001 from "./components/music-blog/music-articles/00001-0010
 
 const router = createBrowserRouter([
   {
-    path: "/*",
+    path: "/",
     element: <Root />,
     errorElement: <ErrorPage />,
     children: [
