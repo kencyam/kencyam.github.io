@@ -1208,12 +1208,12 @@ export default function MusicArticle() {
         >
           <p>
             After dominating the charts with his smash hit "Ordinary", I wrote
-            him off as a person I can ignore. If it weren't for KPop Demon
-            Hunters, "Ordinary" would have broken the record for longest #1 hit,
-            a title that shouldn't belong to such a middling song. It was
-            exactly what I thought Alex's style of Hype House influencer would
-            sound like, and I wasn't looking forward to anything from him, even
-            believing he'll just have one the hit and go away.
+            Alex Warren off as a person I can ignore. If it weren't for KPop
+            Demon Hunters, "Ordinary" would have broken the record for longest
+            #1 hit, a title that shouldn't belong to such a middling song. It
+            was exactly what I thought Alex's style of Hype House influencer
+            would sound like, and I wasn't looking forward to anything from him,
+            even believing he'll just have one the hit and go away.
           </p>
           <p>
             I just really didn't expect this song to come out of Alex Warren. A
