@@ -21,8 +21,8 @@ export default function MusicArticle() {
         biased and ignorant, especially when I dive into genres and trends that
         are new to me. I will be wrong. I will be unknowledgeable until I'm not.
         As my music tastes grow, I may even add retrospective posts to see how
-        much I've changed. To start, I think a listicle of what I like can paint
-        a picture of how I'm feeling at the start of 2026.
+        much I've changed. To start, I think a listicle of what I like paints a
+        picture of how I'm feeling at the start of 2026.
       </p>
       <p>
         During the COVID pandemic, I got back into listening to what's popular.
@@ -612,7 +612,7 @@ export default function MusicArticle() {
             but I never really had many songs I'd say I really like. I believe
             it's either the subject of her songs or the production. If not for
             her voice, I'd have not care at all about the songs. BMF doesn't
-            stary far away from the subject of her usual songs, but this one is
+            stray far away from the subject of her usual songs, but this one is
             way more fun. She sounds a lot more happy, and it translates better.
             Props to the boy from South Detroit (or somewhere) for making her go
             crazy for you and allowing her write a great song.
