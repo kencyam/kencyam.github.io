@@ -103,5 +103,7 @@ export default function MusicBlogSearch() {
           <h4>None yet!</h4>
         </div>
       );
+    default:
+      return <div>How did you get here? There's no tags for this!</div>;
   }
 }
