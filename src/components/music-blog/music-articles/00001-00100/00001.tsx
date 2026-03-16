@@ -22,17 +22,17 @@ export default function MusicArticle() {
         biased and ignorant, especially when I dive into genres and trends that
         are new to me. I will be wrong. I will be unknowledgeable until I'm not.
         As my music tastes grow, I may even add retrospective posts to see how
-        much I've changed. To start, I think a listicle of what I like paints a
-        picture of how I'm feeling at the start of 2026.
+        much I've changed. To start, I think a listicle of popular songs I liked
+        in 2025 will set the groundwork for this project.
       </p>
       <p>
-        During the COVID pandemic, I got back into listening to what's popular.
-        I use Billboard's charts to tell me what's "popular", even if some songs
+        During the COVID pandemic, I got back into listening to what's popular
+        using Billboard's charts to tell me what's "popular", even if some songs
         or albums I'll say, have been "gamed" into their respective positions
         (hello stan armies). And being more open-minded as a young adult, I like
         seeing what I've been missing out on. My biggest fear is becoming one of
-        those old people who swear music was better when they were younger (aka
-        when they were teens).
+        those old people who say nothing is good anymore and swear music was
+        better when they were younger (aka when they were teens).
       </p>
       <p>
         I'm going to use Billboard's calendar year of 2025, which are and
@@ -45,7 +45,7 @@ export default function MusicArticle() {
         will most likely not be beaten until Mariah Carey unthaws for the 2032
         Christmas season if they don't change how they track Christmas songs).
         This list will be all the songs I'd give at least a B grade, sorted from
-        good to greater. I will also for the time being only be using songs that
+        good to best. I will also for the time being only be using songs that
         either charted at least ten weeks within the calendar year or peaked
         above the top 20 in a week. I will also not go over Holiday songs if
         they did not make to the Year-End 100. I may have time on my hands, but
@@ -196,17 +196,17 @@ export default function MusicArticle() {
         >
           <p>
             And now we return to songs from the previous year. It could just be
-            me, but I remember the late 2000s and early 2010s there were loads
-            of hits that told us things will be alright and we can celebrate. It
-            was probably people having hope from newly-elected President Obama
-            promising progress and moving away from war. These songs being hits
-            are so rare now (gee I wonder why), so I appreciate songs that tell
-            us we can make it. I mean Jelly Roll's whole persona so far has been
-            about overcoming addiction. If he is still here succeeding, maybe we
-            can too. I will say though in 2025 and 2026 he's kind taking part in
-            being the reason the world is crazy. I will separate art from the
-            artist this time and turn the other cheek until he does something
-            really bad, and then I'll get really disappointed.
+            me, but I remember in the late 2000s and early 2010s, there were
+            loads of hits that told us things will be alright and we can
+            celebrate. It was probably people having hope from newly-elected
+            President Obama promising progress and moving away from war. These
+            songs being hits are so rare now (gee I wonder why), so I appreciate
+            songs that tell us we can make it. I mean Jelly Roll's whole persona
+            so far has been about overcoming addiction. If he is still here
+            succeeding, maybe we can too. I will say though in 2025 and 2026
+            he's part of the reason why the world is crazy. I will separate art
+            from the artist this time and turn the other cheek until he does
+            something really bad, and then I'll get really disappointed.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
@@ -250,12 +250,11 @@ export default function MusicArticle() {
         >
           <p>
             I remember first listening to this and noticing her name. I looked
-            her up and was surprised that it is a woman and she really had such
-            a voice. I had to look up other songs and, yeah, that's what she
-            sounds like (although it's probably pitched a little lower). It's
-            really cool nonetheless. Lesbian love song that probably fooled many
-            others seeing the Youtube comments and Reddit first impression
-            threads.
+            her up and was surprised that it's a woman who had such a voice. I
+            had to look up other songs and, yeah, that's what she sounds like
+            (although it's probably pitched a little lower). It's really cool
+            nonetheless. Lesbian love song that probably fooled many others
+            looking through the Youtube comments and Reddit threads.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
@@ -276,7 +275,7 @@ export default function MusicArticle() {
           previousBillboardYearEndYear="2024"
         >
           <p>
-            Yes another Christmas song. A classic. Keep expecting to see this
+            Yes, another Christmas song. A classic. Keep expecting to see this
             one to pop in annually.
           </p>
         </MusicArticleSongInfoFormat>
@@ -299,10 +298,10 @@ export default function MusicArticle() {
           the "southern" part, releasing a whole country-rap album, and I don't
           mind it at all. I appreciate that BigX is straight to the point with
           his feelings, and he moves on with bettering himself with confidence.
-          He can take it. Meanwhile the other star trap country artist, Morgan
-          Wallen, tried whining through two country trap albums and each are so
-          bloated, I can finish the first extended Lord of the Rings movie
-          before Wallen's done blaming others.
+          He can take it. Meanwhile the other trap country artist star, Morgan
+          Wallen, tried whining through two country trap albums. Each were so
+          bloated, I can watch the whole first extended Lord of the Rings movie
+          before Wallen's done throwing blame around.
         </p>
       </MusicArticleBodyFormat>
       {/*25*/}
@@ -317,17 +316,17 @@ export default function MusicArticle() {
           year="2025"
         >
           <p>
-            One of Rod Wave's highest charting songs and it isn't even a single.
-            Rod Wave's been making a lot of progress with R&B. At 25, he's
-            already disillusioned with life, and it's also bringing my mood down
-            when I listen to this song. I do feel the same as him, even though I
-            don't even have 1/100 of his experiences (and he's younger than me
-            &#128544;). Both of us shouldn't feel that way anyways -- we're both
-            still young, but sometimes being irrationally depressed with our
-            situation just happens. One downside that's not related to the song
-            is this music video. Dude, you're literally happy dancing in your
-            job. You could have chose a clip video that's not contradicting your
-            song.
+            One of Rod Wave's highest charting songs, and it isn't even a
+            single. Rod Wave's been making a lot of progress with R&B. At 25,
+            he's already disillusioned with life, and it's also bringing my mood
+            down when I listen to this song. I do feel the same as him, even
+            though I don't even have 1/100 of his experiences (and he's younger
+            than me &#128544;). Both of us shouldn't feel that way anyways --
+            we're both still young, but sometimes being irrationally depressed
+            with our situation just happens. One downside that's not related to
+            the song is this music video. Dude, you're literally happy dancing
+            in your job. You could have chose a clip video that's not
+            contradicting your message.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
@@ -428,8 +427,9 @@ export default function MusicArticle() {
             >
               "Physical"
             </a>{" "}
-            and the infamous pre-chorus of "Moonbeam Ice Cream". I don't care.
-            Give me the Moonbeam Ice cream. No, it's not a euphamism.
+            and also spotlighting the infamous pre-chorus of "Moonbeam Ice
+            Cream". I don't care. Give me the Moonbeam Ice cream. No, it's not a
+            euphamism.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
@@ -448,8 +448,8 @@ export default function MusicArticle() {
           <p>
             The introduction song to the movie. Tells us viewers how
             unapologetically K-pop these songs will be: loud, in your face,
-            melodic, rapping, switching between English and a couple Korean
-            phrases -- yep K-pop. They are showing us how it's done.
+            melodic, have rap, and singing in English while throwing in a couple
+            Korean phrases -- yep K-pop. They are showing us how it's done.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
@@ -494,8 +494,8 @@ export default function MusicArticle() {
             two get their own resolutions from things they are self-conscious
             of, which weren't really explored, only just casually mentioned in
             the beginning of the movie). A song about working together and
-            asking their fans for energy to defeat evil -- yep that's more K-pop
-            alright.
+            asking their fans for energy to defeat evil -- yep that's that K-pop
+            aesthetic.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
@@ -539,12 +539,13 @@ export default function MusicArticle() {
         >
           <p>
             This song is just hilarious, even if the guy singing it is probably
-            serious. He looks straight out of high school, and I can totally see
-            if this song existed back then, my classmates would listen to this
-            song and believe it 100%. "How dare that dude take my woman?" he
-            thinks to himself while the girl probably never liked him anyways.
-            Dude probably was watching her from afar and never actually tried to
-            start a conversation. Did I rank this song too high? Possibly.
+            serious. He looks straight out of high school, and I can totally
+            envision if this song existed back then, my classmates would listen
+            to this song and believe it 100%. "How dare that dude take my
+            woman?" he thinks to himself while the girl probably never liked him
+            anyways. Dude probably was watching her from afar and never actually
+            tried to start a conversation. Did I rank this song too high?
+            Possibly.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
@@ -563,11 +564,11 @@ export default function MusicArticle() {
         >
           <p>
             Summary: I'm not gonna be your man. A mildly clever trope of these
-            Southern boys saying "Any problem you got, I know a person who can
-            fix that" except one that can fix your heart. Luke Combs continues
-            to be a positive addition to pop country and Post Malone with his
-            ups and downs in his latest album, definitely got it right in this
-            song.
+            country-singin' boys saying "Any problem you got, I know a person
+            who can fix that" except one that can fix your heart. Luke Combs
+            continues to be a positive addition to pop country and Post Malone
+            with his ups and downs in his latest album, definitely got it right
+            in this song.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
@@ -659,13 +660,13 @@ export default function MusicArticle() {
             This dude dresses and sings like he's ready to be 40. (At the time
             of this writing, he's 28, and look at that moustache!) I can't
             believe I'm the same age as him. In the land of people singing to
-            prove they're over the breakup, Zach here sounds the most honest and
-            polite. He still is at least pleasant to her in the conversation. He
-            also actually sounds like he grew a 401k out of thin air with how
-            stress-free he became after leaving. Outside the lyrics, the
-            instrumentation is so clean. If I didn't know better, this would
-            have been a song I would have heard in karaoke if my family brings
-            out a song from the '70s.
+            prove they're over the breakup, Zach here sounds the most genuinely
+            successful. He is still at least polite to her in their
+            conversation. He also actually sounds like he grew a 401k out of
+            thin air with how stress-free he became after leaving. Outside the
+            lyrics, the instrumentation is so clean. If I didn't know better,
+            this would have been a song I would have heard in karaoke if my
+            family brings out a song from the '70s.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
@@ -844,18 +845,18 @@ export default function MusicArticle() {
           year="2025"
         >
           <p>
-            I know in a few of these entries, I've mentioned the artist's age,
-            but look at this one. Hudson's only 21, and his breakout single is
+            I know in a couple of these entries, I've mentioned the artist's
+            age, but look at this one. Hudson's only 21, and his debut single is
             already a heartbreaker. This song was a grower -- it took me
             thinking about memories of houses and areas that I used to treasure
             now gone or abandoned. Just something about a
             Cinderella-past-midnight detransformation of the spot you cherished
-            becoming just a regular place. I learned that this song is about an
-            ex, which sure is sad (I mean, again he's only 21. What kind of
-            relationship could possibly be that magical in that short of span?),
-            but I choose to believe it's actually about an old widower long
-            outliving his wife and just stewing alone. It makes this song a lot
-            more heart-wrenching.
+            becoming just a regular place just makes me feel a hole in my chest.
+            I learned that this song is about an ex, which sure is sad (I mean,
+            again he's only 21. What kind of relationship could possibly be that
+            magical in that short of span?), but I choose to believe it's
+            actually about an old widower long outliving his wife and just
+            stewing alone. It makes this song a lot more heart-wrenching.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
@@ -901,13 +902,13 @@ export default function MusicArticle() {
         >
           <p>
             Another classic Christmas song, and probably my favorite of the
-            staple Christmas songs that existed before I was born. It's the
+            staple Christmas songs that existed before I was born. It's just the
             sentimental feeling when I hear this song. Fun fact if you didn't
             know: Brenda Lee's still alive since she was only 13 when she
             recorded the song. I'd have never known listening to it. She already
-            had that raspy voice. Another fun fact: Brenda took the top spot for
-            a week and overtook Mariah Carey due to a small push from her team
-            and fans to give Brenda a second #1 hit.
+            had that aged, raspy voice. Another fun fact: Brenda took the top
+            spot for a week and overtook Mariah Carey due to a small push from
+            her team and fans to give Brenda a second #1 hit.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
@@ -1019,9 +1020,9 @@ export default function MusicArticle() {
           year="2025"
         >
           <p>
-            I'm so surprised how this single got big. It's just so different
+            I'm so surprised that this single got big. It's just so different
             from other pop songs. It's like something out of a musical where
-            Tyler stands on a balcony to wallow in his feeling of not knowing
+            Tyler stands on a balcony to wallow in his feelings of not knowing
             his father. Such a meek voice is perfect for this song. He feels
             like he's not good enough, like any resemblance of his father makes
             him worry that he will also be a bad person. He truly wants to
@@ -1076,7 +1077,7 @@ export default function MusicArticle() {
             The best song out of KPop Demon Hunters. The Saja Boys are one song
             away from taking over the entire city(?) country(?) world(?) (They
             never really tell us how far the Honmoon spans.) It's a
-            cool-sounding song. Demonic of course, but also grand. I don't
+            cool-sounding song. Demonic of course, but also grandiose. I don't
             really know why, but I really like the lyrics. Maybe it's a little
             too "young teen's first edgy" song, a song where you pretend your
             mother is clutching her pearls for choosing such "bad" influences,
@@ -1107,10 +1108,10 @@ export default function MusicArticle() {
             at it (although those guys were not abusive at least, just stupid).
             That could be me setting the bar way too low, but I personally have
             never been in a relationship, and I've just heard horror stories
-            from friends and being online. Back to the song, I'm just glad for
-            her that she's so happy, it blew away her own expectations of a
-            relationship. The burst of happiness in the chorus is an earworm
-            that makes me believe in her.
+            from friends and being online. But back to the song, I'm just glad
+            for her that she's so happy, it blew away her own relationship
+            expectations. The burst of happiness in the chorus is an earworm
+            that makes me believe in them.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
@@ -1192,7 +1193,7 @@ export default function MusicArticle() {
             name. Fantastic matured voice leading the sing-a-long to lament in
             our sorrows. Fun folky-country tune that would fit in any saloon.
             This was a cool song to hit number one, and what an introduction to
-            the pop charts with this one.
+            the pop charts for Shaboozey with this one.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
@@ -1250,11 +1251,11 @@ export default function MusicArticle() {
             Drake with this one being the final one, and what a dagger this song
             was. It was so dense and full of imagery to keep it fresh and
             attention-grabbing. My favorite part of it was the gaslighting that
-            Kendrick gave to Drake that none of his peers actually liked him. He
-            was just someone to work with, not with the community. Kendrick
-            using a whole verse for the allegory of slaves and Atlanta just to
-            end with the "You not a colleague, you a fuckin' colonizer"
-            punchline was absolutely harrowing.
+            Kendrick gave to Drake that none of his peers actually liked him.
+            Drake was just someone to work with, and does not belong in the
+            community. Kendrick using a whole verse for the allegory of slaves
+            and Atlanta just to end with the "You not a colleague, you a fuckin'
+            colonizer" punchline was absolutely harrowing.
           </p>
           <p>
             One unpopular opinion I just need to say is that the "A MINOR" line
@@ -1368,7 +1369,7 @@ export default function MusicArticle() {
           <p>
             I was actually going back and forth with putting this or "Back to
             Friends" as higher. I decided to put this song as the better one for
-            now, but I swap them back and forth. sombr again is being a weenie
+            now, but I swap them back and forth. Sombr again is being a weenie
             and crying to his soon-to-be ex. He begs her to stay with him
             because "he doesn't want to get undressed for a new person all over
             again". He must have been really reluctant about his hearththrob
@@ -1426,15 +1427,16 @@ export default function MusicArticle() {
         >
           <p>
             Always a big fan of Billie. There's always at least that one hit
-            every year that just wows me. Technically it wowed me last year, but
-            46 weeks on the chart in 2025 means it was bigger now than 2024.
-            This is just so catchy. That chorus is so soft, yet so assertive.
-            The lyrics have that Billie zhuzz with the slight creepiness -- in
-            this case, she literally cannot live without you. Her love for you
-            spans many lifetimes, and she will follow close to you for eternity.
-            If you deny it, then she will get (scarily) defensive, uncloaking 1%
-            of her craziness. How dare you even hint at it? I may be a little
-            afraid, but it's so... I don't know the word, but it's just Billie.
+            every year from her that just wows me. Technically it wowed me last
+            year, but 46 weeks on the chart in 2025 means it was bigger now than
+            2024. This is just so catchy. That chorus is so soft, yet so
+            assertive. The lyrics have that Billie zhuzz with the slight
+            creepiness -- in this case, she literally cannot live without you.
+            Her love for you spans many lifetimes, and she will follow close to
+            you for eternity. If you deny it, then she will get (scarily)
+            defensive, uncloaking 1% of her craziness. How dare you even hint at
+            it? I may be a little afraid, but it's so... I don't know the word,
+            but it's just Billie.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
