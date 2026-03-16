@@ -2,14 +2,11 @@ import { Link, useParams, useSearchParams } from "react-router";
 import { useState } from "react";
 import { MusicTags } from "../../assets/enums";
 
-type Props = {
-  children: React.ReactElement[];
-};
+type Props = {};
 
 //When I find out how to tag, I'd switch the switch case to just get posts that have tag enum
 const MusicBlogSearch: React.FC<Props> = () => {
   let [searchParams] = useSearchParams();
-  const [selectedTag, setSelectedTag] = useState(searchParams.get("tag"));
   switch (Number(searchParams.get("tag"))) {
     case MusicTags.AlbumReviews:
       return (
