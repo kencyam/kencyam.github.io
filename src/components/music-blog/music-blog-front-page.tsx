@@ -2,8 +2,10 @@ import React, { Component } from "react";
 import "../aboutme.css";
 
 import MusicArticle00001 from "./music-articles/00001-00100/00001";
+import MusicArticle00002 from "./music-articles/00001-00100/00002";
+
 import SideBar from "../webpage-components/Sidebar/Sidebar";
-import { Link } from "react-router-dom";
+import { Link, Outlet } from "react-router-dom";
 
 //Will have Music table of contents on side, a search, and a front page of the most recent blog(s) one for now, maybe up to 5 later
 class MusicBlog extends Component {
@@ -34,34 +36,34 @@ class MusicBlog extends Component {
               </u>
             </h2>
             <h3>
-              <a>Album Reviews (0)</a>
+              <Link to={"search?tag=0"}>Album Reviews (0)</Link>
             </h3>
             <h3>
-              <a>Rambles (0)</a>
+              <Link to={"search?tag=1"}>Rambles (0)</Link>
             </h3>
             <h3>
-              <a>Ranking Lists (1)</a>
+              <Link to={"search?tag=2"}>Ranking Lists (1)</Link>
             </h3>
             <h3>
-              <a>Singles Reviews (0)</a>
+              <Link to={"search?tag=3"}>Singles Reviews (0)</Link>
             </h3>
             <h3>
-              <a>Personal Nostalgia (0)</a>
+              <Link to={"search?tag=4"}>Personal Nostalgia (0)</Link>
             </h3>
             <h3>
-              <a>Artists (0)</a>
+              <Link to={"search?tag=5"}>Artists (0)</Link>
             </h3>
             <h3>
-              <a>Retrospection (0)</a>
+              <Link to={"search?tag=6"}>Retrospection (0)</Link>
             </h3>
             <h3>
-              <a>Miscellaneous (0)</a>
+              <Link to={"search?tag=7"}>Miscellaneous (0)</Link>
             </h3>
           </div>
         </div>
         <div className="box-middle">
           <p>
-            <MusicArticle00001></MusicArticle00001>
+            <Outlet context={MusicArticle00001} />
           </p>
         </div>
         <div className="box-right">

@@ -1,6 +1,11 @@
 import React from "react";
 import * as ReactDOM from "react-dom/client";
-import { createHashRouter, RouterProvider } from "react-router-dom";
+import {
+  createHashRouter,
+  RouterProvider,
+  useLoaderData,
+  useActionData,
+} from "react-router";
 
 import "bootstrap/dist/css/bootstrap.css";
 import Root from "./route_organizer/Root";
@@ -16,7 +21,10 @@ import {
 } from "./components/index";
 
 //#region musicarticles
+import MusicBlogSearch from "./components/music-blog/music-blog-search";
 import MusicArticle00001 from "./components/music-blog/music-articles/00001-00100/00001";
+import MusicArticle00002 from "./components/music-blog/music-articles/00001-00100/00002";
+
 //#endregion
 
 const router = createHashRouter([
@@ -26,24 +34,33 @@ const router = createHashRouter([
     errorElement: <ErrorPage />,
     children: [
       {
-        path: "aboutme/",
+        path: "/aboutme",
         element: <AboutMe />,
       },
       {
-        path: "",
+        path: "/",
         element: <Landing />,
       },
       {
-        path: "projects/",
+        path: "/projects",
         element: <Projects />,
       },
       {
-        path: "musicblog/",
+        path: "/musicblog",
         element: <MusicBlog />,
         children: [
+          { index: true, element: <MusicArticle00001 /> },
+          {
+            path: "search/",
+            element: <MusicBlogSearch />,
+          },
           {
             path: "00001/",
             element: <MusicArticle00001 />,
+          },
+          {
+            path: "00002/",
+            element: <MusicArticle00002 />,
           },
         ],
       },

@@ -227,3 +227,20 @@
   padding-top: 2%;
   padding-bottom: 2%;
 }
+
+/*Misc*/
+.remove-list-bullet li {
+  list-style: none;
+}
+
+.remove-list-bullet ul {
+  padding-left: 0px;
+
+  margin-left: 0px;
+}
+
+.center {
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+}
