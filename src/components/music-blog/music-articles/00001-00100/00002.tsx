@@ -23,7 +23,7 @@ export default function MusicArticle() {
         now, it looks a lot worse. There were a lot of songs to be indifferent
         of, but not much that's truly abhorrent. That's why this list is a lot
         shorter than my favorite list. But the songs that did make my list, wow
-        they're terrible.
+        these songs are terrible.
       </p>
       {/*Nice To Meet You*/}
       <MusicArticleBodyFormat>
