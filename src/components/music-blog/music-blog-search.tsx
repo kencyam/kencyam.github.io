@@ -45,6 +45,11 @@ export default function MusicBlogSearch() {
                 2025 Billboard Hit Songs I Liked
               </Link>
             </li>
+            <li>
+              <Link to="/musicblog/00002">
+                2025 Billboard Hit Songs I Disiked
+              </Link>
+            </li>
           </ul>
         </div>
       );

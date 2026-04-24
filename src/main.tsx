@@ -24,7 +24,7 @@ import {
 import MusicBlogSearch from "./components/music-blog/music-blog-search";
 import MusicArticle00001 from "./components/music-blog/music-articles/00001-00100/00001";
 import MusicArticle00002 from "./components/music-blog/music-articles/00001-00100/00002";
-
+import MusicArticle00003 from "./components/music-blog/music-articles/00001-00100/00003";
 //#endregion
 
 const router = createHashRouter([
@@ -61,6 +61,10 @@ const router = createHashRouter([
           {
             path: "00002/",
             element: <MusicArticle00002 />,
+          },
+          {
+            path: "00003/",
+            element: <MusicArticle00003 />,
           },
         ],
       },

@@ -2,8 +2,8 @@ import React, { Component } from "react";
 
 import "../aboutme.css";
 
-//import { SimpleTreeView } from "@mui/x-tree-view/SimpleTreeView";
-//import { TreeItem } from "@mui/x-tree-view/TreeItem";
+import { SimpleTreeView } from "@mui/x-tree-view/SimpleTreeView";
+import { TreeItem } from "@mui/x-tree-view/TreeItem";
 
 import MusicArticle00002 from "./music-articles/00001-00100/00002";
 
@@ -64,7 +64,6 @@ class MusicBlog extends Component {
             <h3>
               <Link to={"search?tag=6"}>Retrospection (0)</Link>
             </h3>
-            gir
             <h3>
               <Link to={"search?tag=7"}>Miscellaneous (0)</Link>
             </h3>
@@ -80,6 +79,28 @@ class MusicBlog extends Component {
           {/*We are currently using a SimpleTreeView due to me hardcoding as test. Will transfer to RichTreeView once I deem how to insert info via date into this */}
           <div>
             <h3 className="title">Archives</h3>
+            <SimpleTreeView itemID="Archives">
+              <TreeItem itemId="archive-2026" label="2026 (2)">
+                <TreeItem itemId="archive-april-2026" label="April (1)">
+                  <ul>
+                    <li>
+                      <Link to="/musicblog/00002">
+                        2025 Billboard Hit Songs I Disiked
+                      </Link>
+                    </li>
+                  </ul>
+                </TreeItem>
+                <TreeItem itemId="archive-march-2026" label="March (1)">
+                  <ul id="ul_march_2026">
+                    <li>
+                      <Link to="/musicblog/00001">
+                        2025 Billboard Hit Songs I Liked
+                      </Link>
+                    </li>
+                  </ul>
+                </TreeItem>
+              </TreeItem>
+            </SimpleTreeView>
           </div>
         </div>
 
