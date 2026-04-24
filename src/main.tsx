@@ -49,7 +49,7 @@ const router = createHashRouter([
         path: "/musicblog",
         element: <MusicBlog />,
         children: [
-          { index: true, element: <MusicArticle00001 /> },
+          { index: true, element: <MusicArticle00002 /> }, //update this for initial element (i.e. new original for front page)
           {
             path: "search/",
             element: <MusicBlogSearch />,
