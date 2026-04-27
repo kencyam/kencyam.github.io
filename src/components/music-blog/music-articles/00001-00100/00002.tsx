@@ -768,8 +768,8 @@ export default function MusicArticle() {
             shrivel up from cringe hypocracy. I guess the money just makes her
             ego powerful. Oh, and beside the terrible lyrics, that beat is high
             school theatre-kid level dark. Maybe even middle-school level. The
-            grandeur you feel about yourself is causing all the haters that you
-            are accumulating, not the other way around.
+            grandeur you feel about yourself is causing all the haters to
+            accumulate, not the other way around.
           </p>
         </MusicArticleSongInfoFormat>
       </MusicArticleBodyFormat>
