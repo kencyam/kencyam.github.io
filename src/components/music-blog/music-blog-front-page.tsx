@@ -28,6 +28,9 @@ class MusicBlog extends Component {
               <b>Recent Posts</b>
             </u>
             <li>
+              <Link to="/musicblog/00003">Drop Dead - Olivia Rodrigo</Link>
+            </li>
+            <li>
               <Link to="/musicblog/00002">
                 2025 Billboard Hit Songs I Disliked
               </Link>
@@ -55,7 +58,7 @@ class MusicBlog extends Component {
               <Link to={"search?tag=2"}>Ranking Lists (2)</Link>
             </h3>
             <h3>
-              <Link to={"search?tag=3"}>Singles Reviews (0)</Link>
+              <Link to={"search?tag=3"}>Singles Reviews (1)</Link>
             </h3>
             <h3>
               <Link to={"search?tag=4"}>Personal Nostalgia (0)</Link>
@@ -80,7 +83,16 @@ class MusicBlog extends Component {
           <div>
             <h3 className="title">Archives</h3>
             <SimpleTreeView itemID="Archives">
-              <TreeItem itemId="archive-2026" label="2026 (2)">
+              <TreeItem itemId="archive-2026" label="2026 (3)">
+                <TreeItem itemId="archive-may-2026" label="May (1)">
+                  <ul>
+                    <li>
+                      <Link to="/musicblog/00003">
+                        Drop Dead - Olivia Rodrigo
+                      </Link>
+                    </li>
+                  </ul>
+                </TreeItem>
                 <TreeItem itemId="archive-april-2026" label="April (1)">
                   <ul>
                     <li>

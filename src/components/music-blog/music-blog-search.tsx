@@ -61,7 +61,14 @@ export default function MusicBlogSearch() {
               <b>Singles Reviews</b>
             </u>
           </h3>
-          <h4>None yet!</h4>
+          <ul
+            className="remove-list-bullet"
+            style={{ paddingLeft: "0px", fontSize: "xx-large" }}
+          >
+            <li>
+              <Link to="/musicblog/00003">Drop Dead - Olivia Rodrigo</Link>
+            </li>
+          </ul>
         </div>
       );
     case MusicTags.PersonalNostalgia:
