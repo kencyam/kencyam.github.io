@@ -5,7 +5,7 @@ export default function MusicArticle() {
   return (
     <MusicArticleFormat
       title="Drop Dead - Olivia Rodrigo"
-      datePublished="May 1, 2026"
+      datePublished="May 5, 2026"
       tag={[MusicTags.SinglesReviews]}
     >
       <iframe src="https://www.youtube.com/embed/78wrful9cVU"></iframe>
