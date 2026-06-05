@@ -14,7 +14,14 @@ export default function MusicBlogSearch() {
               <b>Album Reviews</b>
             </u>
           </h3>
-          <h4>None yet!</h4>
+          <ul
+            className="remove-list-bullet"
+            style={{ paddingLeft: "0px", fontSize: "xx-large" }}
+          >
+            <li>
+              <Link to="/musicblog/00004">Iceman - Drake</Link>
+            </li>
+          </ul>
         </div>
       );
     case MusicTags.Rambles:

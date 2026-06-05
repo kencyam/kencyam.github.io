@@ -28,6 +28,9 @@ class MusicBlog extends Component {
               <b>Recent Posts</b>
             </u>
             <li>
+              <Link to="/musicblog/00004">Drake - Iceman</Link>
+            </li>
+            <li>
               <Link to="/musicblog/00003">Drop Dead - Olivia Rodrigo</Link>
             </li>
             <li>
@@ -49,7 +52,7 @@ class MusicBlog extends Component {
               </u>
             </h2>
             <h3>
-              <Link to={"search?tag=0"}>Album Reviews (0)</Link>
+              <Link to={"search?tag=0"}>Album Reviews (1)</Link>
             </h3>
             <h3>
               <Link to={"search?tag=1"}>Rambles (0)</Link>
@@ -83,7 +86,14 @@ class MusicBlog extends Component {
           <div>
             <h3 className="title">Archives</h3>
             <SimpleTreeView itemID="Archives">
-              <TreeItem itemId="archive-2026" label="2026 (3)">
+              <TreeItem itemId="archive-2026" label="2026 (4)">
+                <TreeItem itemId="archive-june-2026" label="June (1)">
+                  <ul>
+                    <li>
+                      <Link to="/musicblog/00004">Drake - Iceman</Link>
+                    </li>
+                  </ul>
+                </TreeItem>
                 <TreeItem itemId="archive-may-2026" label="May (1)">
                   <ul>
                     <li>

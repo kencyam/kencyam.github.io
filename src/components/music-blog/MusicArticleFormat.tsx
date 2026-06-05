@@ -5,7 +5,7 @@ type Props = {
   title: string;
   datePublished: string;
   dateEdited?: string;
-  tag?: [MusicTags];
+  tag?: MusicTags[];
   children?: React.ReactNode;
 };
 
