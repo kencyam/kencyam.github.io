@@ -8,6 +8,7 @@ import { TreeItem } from "@mui/x-tree-view/TreeItem";
 import MusicArticle00001 from "./music-articles/00001-00100/00001";
 import MusicArticle00002 from "./music-articles/00001-00100/00002";
 import MusicArticle00003 from "./music-articles/00001-00100/00003";
+import MusicArticle00004 from "./music-articles/00001-00100/00004";
 
 import { Link, Outlet } from "react-router-dom";
 import ReturnToTopButton from "../webpage-components/ReturnToTop/ReturnToTopButton";
@@ -78,7 +79,7 @@ class MusicBlog extends Component {
           </div>
         </div>
         <div className="box-middle">
-          <Outlet key={location.pathname} context={MusicArticle00002} />
+          <Outlet key={location.pathname} context={MusicArticle00004} />
         </div>
         <div className="box-right">
           {/*Here will be the collapsible archive sorted by date */}

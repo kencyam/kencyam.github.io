@@ -1,6 +1,7 @@
 import MusicArticleFormat from "../../MusicArticleFormat";
 import { MusicTags } from "../../../../assets/enums";
 import "/src/App.css";
+import albumImage from "/src/components/music-blog/music-articles-images/drake-iceman.jpg";
 
 export default function MusicArticle() {
   return (
@@ -11,7 +12,7 @@ export default function MusicArticle() {
     >
       <img
         className="center-body"
-        src="src\components\music-blog\music-articles-images\drake-iceman.jpg"
+        src={albumImage}
         alt="Drake - Iceman album image"
       />
 
