@@ -9,4 +9,6 @@ export enum MusicTags {
   Artists,
   Retrospection,
   Miscellaneous,
+  RandomRecommendations,
+  UserRecommendations,
 }

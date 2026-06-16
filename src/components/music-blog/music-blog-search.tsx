@@ -48,13 +48,13 @@ export default function MusicBlogSearch() {
             style={{ paddingLeft: "0px", fontSize: "xx-large" }}
           >
             <li>
-              <Link to="/musicblog/00001">
-                2025 Billboard Hit Songs I Liked
+              <Link to="/musicblog/00002">
+                2025 Billboard Hit Songs I Disiked
               </Link>
             </li>
             <li>
-              <Link to="/musicblog/00002">
-                2025 Billboard Hit Songs I Disiked
+              <Link to="/musicblog/00001">
+                2025 Billboard Hit Songs I Liked
               </Link>
             </li>
           </ul>
@@ -72,6 +72,11 @@ export default function MusicBlogSearch() {
             className="remove-list-bullet"
             style={{ paddingLeft: "0px", fontSize: "xx-large" }}
           >
+            <li>
+              <Link to="/musicblog/00005">
+                Bright Side Breathing - Harry Prasetya Tan
+              </Link>
+            </li>
             <li>
               <Link to="/musicblog/00003">Drop Dead - Olivia Rodrigo</Link>
             </li>
@@ -117,6 +122,37 @@ export default function MusicBlogSearch() {
           <h3 className="center">
             <u>
               <b>Miscellaneous</b>
+            </u>
+          </h3>
+          <h4>None yet!</h4>
+        </div>
+      );
+    case MusicTags.RandomRecommendations:
+      return (
+        <div>
+          <h3 className="center">
+            <u>
+              <b>Random Recommendations</b>
+            </u>
+          </h3>
+          <ul
+            className="remove-list-bullet"
+            style={{ paddingLeft: "0px", fontSize: "xx-large" }}
+          >
+            <li>
+              <Link to="/musicblog/00005">
+                Bright Side Breathing - Harry Prasetya Tan
+              </Link>
+            </li>
+          </ul>
+        </div>
+      );
+    case MusicTags.UserRecommendations:
+      return (
+        <div>
+          <h3 className="center">
+            <u>
+              <b>User Recommendations</b>
             </u>
           </h3>
           <h4>None yet!</h4>

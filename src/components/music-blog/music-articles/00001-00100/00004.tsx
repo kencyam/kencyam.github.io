@@ -203,7 +203,8 @@ export default function MusicArticle() {
       <p>
         "Don't Worry" and "Firm Friends" I'm just going to write about them
         together because Drake again is creating a fantasy for dropping his fake
-        friends. He's not a good storyteller either.
+        friends. He's not a good storyteller so I gave up on going more in
+        depth.
       </p>
       <p>
         And finally in "Make Them Know", he concludes the endless tirade against

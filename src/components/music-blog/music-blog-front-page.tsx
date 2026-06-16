@@ -5,10 +5,7 @@ import "../aboutme.css";
 import { SimpleTreeView } from "@mui/x-tree-view/SimpleTreeView";
 import { TreeItem } from "@mui/x-tree-view/TreeItem";
 
-import MusicArticle00001 from "./music-articles/00001-00100/00001";
-import MusicArticle00002 from "./music-articles/00001-00100/00002";
-import MusicArticle00003 from "./music-articles/00001-00100/00003";
-import MusicArticle00004 from "./music-articles/00001-00100/00004";
+import MusicArticleFront from "./music-articles/00001-00100/00005";
 
 import { Link, Outlet } from "react-router-dom";
 import ReturnToTopButton from "../webpage-components/ReturnToTop/ReturnToTopButton";
@@ -28,6 +25,11 @@ class MusicBlog extends Component {
             <u>
               <b>Recent Posts</b>
             </u>
+            <li>
+              <Link to="/musicblog/00005">
+                Bright Side Breathing - Harry Prasetya Tan
+              </Link>
+            </li>
             <li>
               <Link to="/musicblog/00004">Drake - Iceman</Link>
             </li>
@@ -62,7 +64,7 @@ class MusicBlog extends Component {
               <Link to={"search?tag=2"}>Ranking Lists (2)</Link>
             </h3>
             <h3>
-              <Link to={"search?tag=3"}>Singles Reviews (1)</Link>
+              <Link to={"search?tag=3"}>Singles Reviews (2)</Link>
             </h3>
             <h3>
               <Link to={"search?tag=4"}>Personal Nostalgia (0)</Link>
@@ -76,10 +78,16 @@ class MusicBlog extends Component {
             <h3>
               <Link to={"search?tag=7"}>Miscellaneous (0)</Link>
             </h3>
+            <h3>
+              <Link to={"search?tag=8"}>Random Recommendations (1)</Link>
+            </h3>
+            <h3>
+              <Link to={"search?tag=9"}>User Recommandations (0)</Link>
+            </h3>
           </div>
         </div>
         <div className="box-middle">
-          <Outlet key={location.pathname} context={MusicArticle00004} />
+          <Outlet key={location.pathname} context={MusicArticleFront} />
         </div>
         <div className="box-right">
           {/*Here will be the collapsible archive sorted by date */}
@@ -87,9 +95,14 @@ class MusicBlog extends Component {
           <div>
             <h3 className="title">Archives</h3>
             <SimpleTreeView itemID="Archives">
-              <TreeItem itemId="archive-2026" label="2026 (4)">
-                <TreeItem itemId="archive-june-2026" label="June (1)">
+              <TreeItem itemId="archive-2026" label="2026 (5)">
+                <TreeItem itemId="archive-june-2026" label="June (2)">
                   <ul>
+                    <li>
+                      <Link to="/musicblog/00005">
+                        Bright Side Breathing - Harry Prasetya Tan
+                      </Link>
+                    </li>
                     <li>
                       <Link to="/musicblog/00004">Drake - Iceman</Link>
                     </li>
