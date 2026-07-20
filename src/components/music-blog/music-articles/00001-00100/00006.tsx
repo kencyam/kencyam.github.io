@@ -6,9 +6,9 @@ export default function MusicArticle() {
   return (
     <MusicArticleFormat
       title="misery. - pupsies"
-      datePublished="July 14, 2026"
+      datePublished="July 20, 2026"
       tag={[MusicTags.SinglesReviews]}
-      isFinished={false}
+      isFinished={true}
     >
       <iframe src="https://www.youtube.com/embed/hXCIH5VTWyg" />
 

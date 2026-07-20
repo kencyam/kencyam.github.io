@@ -10,6 +10,7 @@ export default function MusicArticle() {
       title="2025 Billboard Hit Songs I Disliked"
       datePublished="April 24, 2026"
       tag={[MusicTags.RankingLists]}
+      isFinished={true}
     >
       <p>
         Popular music in 2025 was disappointing. With so many carry-overs from

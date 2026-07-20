@@ -11,6 +11,7 @@ export default function MusicArticle() {
       title="2025 Billboard Hit Songs I Liked"
       datePublished="March 11, 2026"
       tag={[MusicTags.RankingLists]}
+      isFinished={true}
     >
       <p>
         Hey everyone. I've decided to make a blog about music because I want to
