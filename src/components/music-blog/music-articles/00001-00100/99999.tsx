@@ -11,6 +11,7 @@ export default function MusicArticle() {
         MusicTags.Artists,
         MusicTags.Retrospection,
       ]}
+      isFinished={false}
     >
       <p>
         Every so often, I'd browse Billboard's Top 100 site to see what's

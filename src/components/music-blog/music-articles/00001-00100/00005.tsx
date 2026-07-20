@@ -9,6 +9,7 @@ export default function MusicArticle() {
       title="Bright Side Breathing - Harry Prasetya Tan"
       datePublished="June 16, 2026"
       tag={[MusicTags.SinglesReviews, MusicTags.RandomRecommendations]}
+      isFinished={true}
     >
       <iframe src="https://www.youtube.com/embed/EftR5a2-6Cg"></iframe>
       <p>

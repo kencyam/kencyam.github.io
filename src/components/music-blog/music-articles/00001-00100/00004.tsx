@@ -9,6 +9,7 @@ export default function MusicArticle() {
       title="Drake - Iceman"
       datePublished="June 5, 2026"
       tag={[MusicTags.AlbumReviews]}
+      isFinished={true}
     >
       <img
         className="center-body"

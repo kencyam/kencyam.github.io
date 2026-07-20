@@ -257,3 +257,7 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+.links li :hover {
+  text-decoration: underline;
+}

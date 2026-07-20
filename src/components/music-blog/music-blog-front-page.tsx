@@ -10,6 +10,8 @@ import MusicArticleFront from "./music-articles/00001-00100/00005";
 import { Link, Outlet } from "react-router-dom";
 import ReturnToTopButton from "../webpage-components/ReturnToTop/ReturnToTopButton";
 
+import TreeArchive from "./tree-archive";
+
 //Will have Music table of contents on side, a search, and a front page of the most recent blog(s) one for now, maybe up to 5 later
 class MusicBlog extends Component {
   render() {
@@ -21,10 +23,13 @@ class MusicBlog extends Component {
         </div>
         {/*Later, this will be changed to show the latest 5 by id automatically*/}
         <div className="box-left">
-          <ul>
+          <ul className="links">
             <u>
               <b>Recent Posts</b>
             </u>
+            <li>
+              <Link to="/musicblog/00006">misery. - pupsies</Link>
+            </li>
             <li>
               <Link to="/musicblog/00005">
                 Bright Side Breathing - Harry Prasetya Tan
@@ -39,11 +44,6 @@ class MusicBlog extends Component {
             <li>
               <Link to="/musicblog/00002">
                 2025 Billboard Hit Songs I Disliked
-              </Link>
-            </li>
-            <li>
-              <Link to="/musicblog/00001">
-                2025 Billboard Hit Songs I Liked
               </Link>
             </li>
           </ul>
@@ -64,7 +64,7 @@ class MusicBlog extends Component {
               <Link to={"search?tag=2"}>Ranking Lists (2)</Link>
             </h3>
             <h3>
-              <Link to={"search?tag=3"}>Singles Reviews (2)</Link>
+              <Link to={"search?tag=3"}>Singles Reviews (3)</Link>
             </h3>
             <h3>
               <Link to={"search?tag=4"}>Personal Nostalgia (0)</Link>
@@ -94,49 +94,7 @@ class MusicBlog extends Component {
           {/*We are currently using a SimpleTreeView due to me hardcoding as test. Will transfer to RichTreeView once I deem how to insert info via date into this */}
           <div>
             <h3 className="title">Archives</h3>
-            <SimpleTreeView itemID="Archives">
-              <TreeItem itemId="archive-2026" label="2026 (5)">
-                <TreeItem itemId="archive-june-2026" label="June (2)">
-                  <ul>
-                    <li>
-                      <Link to="/musicblog/00005">
-                        Bright Side Breathing - Harry Prasetya Tan
-                      </Link>
-                    </li>
-                    <li>
-                      <Link to="/musicblog/00004">Drake - Iceman</Link>
-                    </li>
-                  </ul>
-                </TreeItem>
-                <TreeItem itemId="archive-may-2026" label="May (1)">
-                  <ul>
-                    <li>
-                      <Link to="/musicblog/00003">
-                        Drop Dead - Olivia Rodrigo
-                      </Link>
-                    </li>
-                  </ul>
-                </TreeItem>
-                <TreeItem itemId="archive-april-2026" label="April (1)">
-                  <ul>
-                    <li>
-                      <Link to="/musicblog/00002">
-                        2025 Billboard Hit Songs I Disiked
-                      </Link>
-                    </li>
-                  </ul>
-                </TreeItem>
-                <TreeItem itemId="archive-march-2026" label="March (1)">
-                  <ul id="ul_march_2026">
-                    <li>
-                      <Link to="/musicblog/00001">
-                        2025 Billboard Hit Songs I Liked
-                      </Link>
-                    </li>
-                  </ul>
-                </TreeItem>
-              </TreeItem>
-            </SimpleTreeView>
+            <TreeArchive></TreeArchive>
           </div>
         </div>
 

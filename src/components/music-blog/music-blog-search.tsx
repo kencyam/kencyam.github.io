@@ -73,6 +73,9 @@ export default function MusicBlogSearch() {
             style={{ paddingLeft: "0px", fontSize: "xx-large" }}
           >
             <li>
+              <Link to="/musicblog/00006">misery. - pupsies</Link>
+            </li>
+            <li>
               <Link to="/musicblog/00005">
                 Bright Side Breathing - Harry Prasetya Tan
               </Link>

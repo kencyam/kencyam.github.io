@@ -6,6 +6,7 @@ type Props = {
   datePublished: string;
   dateEdited?: string;
   tag?: MusicTags[];
+  isFinished: boolean;
   children?: React.ReactNode;
 };
 
@@ -14,6 +15,7 @@ const MusicArticleFormat: React.FC<Props> = ({
   datePublished,
   dateEdited,
   tag,
+  isFinished,
   children,
 }) => {
   return (

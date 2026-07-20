@@ -7,6 +7,7 @@ export default function MusicArticle() {
       title="Drop Dead - Olivia Rodrigo"
       datePublished="May 5, 2026"
       tag={[MusicTags.SinglesReviews]}
+      isFinished={true}
     >
       <iframe src="https://www.youtube.com/embed/78wrful9cVU"></iframe>
       <p>
