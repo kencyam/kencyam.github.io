@@ -28,6 +28,12 @@ class MusicBlog extends Component {
               <b>Recent Posts</b>
             </u>
             <li>
+              <Link to="/musicblog/00007">
+                Compilation of All Public Charted Billboard Songs Sorted By Year
+                (1959-Present)
+              </Link>
+            </li>
+            <li>
               <Link to="/musicblog/00006">misery. - pupsies</Link>
             </li>
             <li>
@@ -40,11 +46,6 @@ class MusicBlog extends Component {
             </li>
             <li>
               <Link to="/musicblog/00003">Drop Dead - Olivia Rodrigo</Link>
-            </li>
-            <li>
-              <Link to="/musicblog/00002">
-                2025 Billboard Hit Songs I Disliked
-              </Link>
             </li>
           </ul>
           {/*Here will be the types of blog posts and their # of entries, coupled with updated x days/weeks/months/years ago */}
@@ -76,7 +77,7 @@ class MusicBlog extends Component {
               <Link to={"search?tag=6"}>Retrospection (0)</Link>
             </h3>
             <h3>
-              <Link to={"search?tag=7"}>Miscellaneous (0)</Link>
+              <Link to={"search?tag=7"}>Miscellaneous (1)</Link>
             </h3>
             <h3>
               <Link to={"search?tag=8"}>Random Recommendations (1)</Link>
@@ -95,6 +96,14 @@ class MusicBlog extends Component {
           <div>
             <h3 className="title">Archives</h3>
             <TreeArchive></TreeArchive>
+          </div>
+          <div>
+            <h3 className="title">Billboard Chart Archives</h3>
+            <ul>
+              <li>
+                <Link to={"archives"}>Billboard Calendar Charts</Link>
+              </li>
+            </ul>
           </div>
         </div>
 

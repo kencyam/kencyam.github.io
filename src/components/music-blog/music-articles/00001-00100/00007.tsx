@@ -1,89 +1,57 @@
 import MusicArticleFormat from "../../MusicArticleFormat";
 import { MusicTags } from "../../../../assets/enums";
 import "/src/App.css";
-import albumImage from "/src/components/music-blog/music-articles-images/yspsfagsil.png";
-
+import { Link } from "react-router-dom";
 export default function MusicArticle() {
   return (
     <MusicArticleFormat
-      title="Olivia Rodrigo - You Seem Pretty Sad for a Girl So in Love"
-      datePublished="July 13, 2026"
-      tag={[MusicTags.AlbumReviews]}
-      isFinished={false}
+      title="Compilation of All Public Charted Billboard Songs Sorted By Year (1959-Present)"
+      datePublished="July 24, 2026"
+      tag={[MusicTags.Miscellaneous]}
+      isFinished={true}
     >
-      <img
-        className="center-body"
-        src={albumImage}
-        alt="Olivia Rodrigo - You Seem Pretty Sad for a Girl So in Love album image"
-      />
+      <Link to={"/musicblog/archives"}>Billboard Calendar Charts</Link>
       <p>
-        Pop star Olivia Rodrigo has released her third album. She continues her
-        conquest with great success as of this week are her songs in this album
-        are still charting in the Billboard Top 100.
+        So a while ago, Billboard blocked viewing the history of what was on the
+        Charts. If you want to see, you need to subscribe to them. Weirdly, you
+        can still see them, but you have to quickly play with the website's
+        loading. When you visit a past week, you will temporarily see the page,
+        but then the wall telling you to subscribe goes over it and you cannot
+        remove it. However, the html of information is still available under it.
+        What you can do is stop the loading of the page midway before the
+        website validates that you're a subscriber. While funny, it's still
+        annoying.
       </p>
       <p>
-        A supposed concept album, Olivia explains that the first half of the
-        album is her "Girl So in Love" section and the second half is the "You
-        Seem Pretty Sad" aftermath.
+        What I have here will be a continual archive of the data for the
+        Billboard Hot 100. As of July 24, 2026, the archive will have all the
+        songs starting from the charting year of 1959 (Specifically December 6,
+        1958). There are csv files of all the songs with their artist, how many
+        weeks the songs have been on the chart in the Billboard calendar year
+        and how many in history at the time of the end date of the Billboard
+        calendar year. There will also be the peak of the song in both cases as
+        well for better understanding of the song's timeline.
       </p>
       <p>
-        She starts off with her lead single "drop dead" which I've written about{" "}
-        <a href="https://kencyam.github.io/#/musicblog/00003" target="_blank">
-          here. So far, it's what we know that Olivia is in the beginnings of
-          her infatuation of another man. It sets us up to want to know where
-          this is going.
-        </a>
-        ,
+        For example, Brenda Lee's "Rockin' Around the Christmas Tree" in the
+        2021 file will say that the song peaked at #2 both historically and in
+        the calendar year. It will say it's on the 2021 charts for 7 weeks, and
+        39 weeks in the history of Billboard. In the 2025 file, the song peaked
+        at #2 again, but the true peak is #1 as it reached that in the 2024
+        calendar year. The 2025 file will also say that it lasted for 6 weeks in
+        the calendar year and 64 weeks total. That is to keep continuity.
       </p>
       <p>
-        "stupid song". Funny the line starts with "New York City never seemed so
-        blue" because they just won the NBA Championship for the first time in
-        53 and they're popping off. Maybe it does add to it instead (or maybe
-        she cannot see orange)
+        I will update the archive periodically with more information. When the
+        2026 calendar year finishes, I will add that entry. Further expansion
+        would probably be by specific weeks. Maybe even by different charts if
+        requested or if I feel I want to.
       </p>
       <p>
-        "honeybee" it already kind of sounds like she's sad, but she's just too
-        painfully in love. Lush strings
+        Hope that this archive is useful to anyone who wishes to learn more
+        about pop music history.
       </p>
-      <p>
-        "maggots for brains" she has blunty been brainrotted to only think and
-        do anything for her boyfriend. She literally cannot function (or forgot
-        how)
-      </p>
-      <p>"u + me = &lt;3"</p>
-      <p>
-        "my way" - who is this girl? This girl seems to only be acknowledged in
-        this song only. Did she hallucinate this girl? Is she overly protective
-        and paranoid that any other woman will take him? Is it the mom
-        disapproving of her and his son? (That last one can't be true since the
-        next song seems to be okay)
-      </p>
-      <p>
-        "purple" kind of a weird and sudden change, she's purple and mixing
-        together, but now she's all black? It's too much of a hard brake check.
-        It has gotten somewhat better after a few listens, but the transition is
-        too sudden
-      </p>
-      <p>
-        "the cure" probably would have hit harder if she hinted before that she
-        needed fixing. This sadness felt like it came out of nowhere and fast
-      </p>
-      <p>"begged"</p>
-      <p>"what's wrong with me"</p>
-      <p>"less"</p>
-      <p>
-        "expectations" hilarious whiplash of being suddenly happy (but maybe
-        like a dying person suffering through terminal lucidity)
-      </p>
-      <p>cigarette smoke</p>
-      <p>
-        Summary and overall thoughts, talk about how she really takes
-        inspiration from music before her time, but she kind of sounds too
-        polished. Maybe some pacing or extra knowlege seems omitted
-      </p>
-      <p>Highlight Songs: "maggots for brains", "u + me = &lt;3"</p>
-      <p>Lowlight Songs: "my way", "purple"</p>
-      <p>Rating: &#128532; &#128077; 8.3/10</p>
+      <Link to={"/musicblog/archives"}>Billboard Calendar Charts</Link>
     </MusicArticleFormat>
   );
 }

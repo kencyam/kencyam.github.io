@@ -36,8 +36,8 @@ export default function MusicArticle() {
         chart certifier.
       </p>
       <p>
-        It didn't surprise me that it was once again, TikTok's reason this song
-        gained momentum. The whole group bringing random songs from old to
+        It didn't surprise me that once again, TikTok used its power and gave
+        this song huge momentum. The whole app bringing random songs from old to
         underground is a powerful tool, more often than not for worse, but
         always interesting.
       </p>

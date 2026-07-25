@@ -1,0 +1,782 @@
+song_name,artist,true_chart_peak,calendar_year_chart_peak,true_weeks_on_chart,calendar_year_weeks_on_chart
+Daydream Believer,The Monkees,1,1,12,10
+"The Rain, The Park & Other Things",The Cowsills,2,2,16,7
+Incense And Peppermints,Strawberry Alarm Clock,1,3,16,7
+To Sir With Love,Lulu,1,4,17,5
+I Say A Little Prayer,Dionne Warwick,4,4,13,7
+Please Love Me Forever,Bobby Vinton,6,6,13,4
+Soul Man,Sam & Dave,2,7,15,3
+I Heard It Through The Grapevine,Gladys Knight And The Pips,2,2,17,11
+I Can See For Miles,The Who,9,9,11,4
+An Open Letter To My Teenage Son,Victor Lundberg,10,10,6,3
+I Second That Emotion,Smokey Robinson & The Miracles,4,4,15,11
+You Better Sit Down Kids,Cher,9,9,13,8
+In And Out Of Love,Diana Ross & The Supremes,9,9,8,5
+Lazy Day,Spanky And Our Gang,14,14,11,4
+Boogaloo Down Broadway,The Fantastic Johnny C,7,7,18,10
+Keep The Ball Rollin',Jay And The Techniques,14,14,12,6
+Everlasting Love,Robert Knight,13,17,12,3
+Expressway (To Your Heart),Soul Survivors,4,18,15,2
+Pata Pata,Miriam Makeba,12,19,11,3
+(The Lights Went Out In) Massachusetts,Bee Gees,11,11,8,5
+It Must Be Him,Vikki Carr,3,21,15,2
+Stag-O-Lee,Wilson Pickett,22,22,6,2
+Let It Out (Let It All Hang Out),The Hombres,12,23,13,2
+She's My Girl,The Turtles,14,14,10,7
+Yesterday,Ray Charles,25,25,7,4
+Skinny Legs And All,Joe Tex,10,10,15,10
+(Loneliness Made Me Realize) It's You That I Need,The Temptations,14,27,9,2
+By The Time I Get To Phoenix,Glen Campbell,26,26,11,6
+"Beg, Borrow And Steal",Ohio Express,29,29,12,4
+Watch The Flowers Grow,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",30,30,7,2
+Wild Honey,The Beach Boys,31,31,6,2
+"Woman, Woman",The Union Gap Featuring Gary Puckett,4,4,17,15
+Kentucky Woman,Neil Diamond,22,33,8,1
+Glad To Be Unhappy,The Mamas & The Papas,26,34,7,2
+Honey Chile,Martha Reeves & The Vandellas,11,11,12,10
+Back On The Street Again,The Sunshine Company,36,36,7,1
+Neon Rainbow,The Box Tops,24,24,9,6
+Mr. Dream Merchant,Jerry Butler,38,38,7,1
+Your Precious Love,Marvin Gaye & Tammi Terrell,5,39,13,1
+Summer Rain,Johnny Rivers,14,14,10,8
+She Is Still A Mystery,The Lovin' Spoonful,27,41,6,1
+Like An Old Time Movie,Scott McKenzie,24,42,7,1
+Different Drum,Stone Poneys Featuring Linda Ronstadt,13,13,17,14
+Paper Cup,The 5th Dimension,34,34,7,3
+Hello Goodbye,The Beatles,1,1,11,11
+Wear Your Love Like Heaven,Donovan,23,23,7,6
+Next Plane To London,The Rose Garden,17,17,14,8
+Beautiful People,Bobby Vee And The Strangers,37,37,7,5
+Soul Man,Ramsey Lewis,49,49,6,3
+Beautiful People,Kenny O'Dell,38,38,7,5
+Out Of The Blue,Tommy James And The Shondells,43,51,6,1
+Chattanooga Choo Choo,Harpers Bizarre,45,45,7,5
+Peace Of Mind,Paul Revere & The Raiders Featuring Mark Lindsay,42,42,6,4
+Get It Together (Part 1),James Brown And The Famous Flames,40,54,6,1
+And Get Away,The Esquires,22,22,8,7
+Suzanne,Noel Harrison,56,56,6,1
+What's It Gonna Be,Dusty Springfield,49,49,8,6
+Since You Showed Me How To Be Happy,Jackie Wilson,32,32,6,5
+Okolona River Bottom Band,Bobbie Gentry,54,54,4,3
+When You're Gone,Brenda & The Tabulations,58,58,7,3
+Baby You Got It,Brenton Wood,34,34,7,6
+Too Much Of Nothing,"Peter, Paul & Mary",35,35,7,6
+Come See About Me,Jr. Walker & The All Stars,24,24,11,10
+"O-O, I Love You",The Dells,61,61,10,6
+If I Could Build My Whole World Around You,Marvin Gaye & Tammi Terrell,10,10,11,11
+Windy,Wes Montgomery,44,44,11,10
+Love Power,The Sandpebbles,22,22,12,11
+Ooh Baby,Deon Jackson,65,65,6,4
+Tell Mama,Etta James,23,23,14,11
+"Sweet, Sweet Lovin'",The Platters,70,70,7,1
+Cover Me,Percy Sledge,42,42,8,7
+Itchycoo Park,Small Faces,16,16,17,14
+"Bend Me, Shape Me",The American Breed,5,5,14,14
+Judy In Disguise (With Glasses),John Fred And The Playboys,1,1,16,15
+Piece Of My Heart,Erma Franklin,62,62,8,4
+Shame On Me,Chuck Jackson,76,76,9,2
+The Other Man's Grass Is Always Greener,Petula Clark,31,31,7,7
+Hooray For The Salvation Army Band,Bill Cosby,71,71,6,6
+I'll Be Sweeter Tomorrow (Than I Was Today),The O'Jays,66,66,9,8
+Sockin' 1-2-3-4,John Roberts,71,71,4,4
+Storybook Children,Billy Vera & Judy Clay,54,54,9,9
+I'm In Love,Wilson Pickett,45,45,10,10
+Georgia Pines,The Candymen,81,81,5,3
+"Wanted: Lover, No Experience Necessary",Laura Lee,84,84,2,2
+Tony Rome,Nancy Sinatra,83,83,3,3
+Dear Eloise,The Hollies,50,50,8,8
+In The Misty Moonlight,Dean Martin,46,46,7,7
+Can't Help But Love You,The Standells,78,78,3,2
+Goin' Back,The Byrds,89,89,3,1
+Where Is The Party,Helena Ferguson,90,90,5,2
+Here Comes Heaven,Eddy Arnold,91,91,4,4
+On A Saturday Night,Eddie Floyd,92,92,4,1
+Alligator Bogaloo,Lou Donaldson,93,93,4,1
+A Love That's Real,The Intruders,82,82,3,3
+Felicidad,Sally Field,94,94,4,2
+Something's Missing,5 Stairsteps and Cubie,88,88,6,6
+A Letter To Dad,Every Father's Teenage Son,93,93,4,3
+For What It's Worth,King Curtis & The Kingpins,87,87,4,3
+Cross My Heart,Billy Stewart,86,86,9,9
+Live For Life,Jack Jones,99,99,2,2
+I Am The Walrus,The Beatles,56,56,4,4
+Chain Of Fools,Aretha Franklin,2,2,12,12
+It's Wonderful,The Young Rascals,20,20,7,7
+Susan,The Buckinghams,11,11,12,12
+Love Me Two Times,The Doors,25,25,7,7
+I Can't Stand Myself (When You Touch Me),James Brown And The Famous Flames,28,28,9,9
+Up-Up And Away,Hugh Masekela,71,71,8,8
+Goin' Out Of My Head/Can't Take My Eyes Off You,The Lettermen,7,7,15,15
+Back Up Train,Al Greene & The Soul Mate's,41,41,12,12
+Dancing Bear,The Mamas & The Papas,51,51,7,7
+Shout,Lulu And The Luvers,94,96,6,3
+Nobody But Me,The Human Beinz,8,8,15,15
+A Voice In The Choir,Al Martino,80,80,6,6
+Green Tambourine,The Lemon Pipers,1,1,13,13
+Who Will Answer?,Ed Ames,19,19,8,8
+Best Of Both Worlds,Lulu,32,32,10,10
+Watch Her Ride,Jefferson Airplane,61,61,4,4
+My Baby Must Be A Magician,The Marvelettes,17,17,11,11
+Good Combination,Sonny & Cher,56,56,6,6
+Monterey,Eric Burdon & The Animals,15,15,9,9
+Everybody Knows,The Dave Clark Five,43,43,8,8
+Am I That Easy To Forget,Engelbert Humperdinck,18,18,10,10
+Two Little Kids,Peaches & Herb,31,31,8,8
+Somebody's Sleeping In My Bed,Johnnie Taylor,95,95,2,2
+In Another Land,Bill Wyman,87,87,5,5
+Dancin' Out Of My Heart,Ronnie Dove,87,87,3,3
+A Little Rain Must Fall,The Epic Splendor,87,87,7,7
+Explosion (In Your Soul),Soul Survivors,33,33,8,8
+Foxey Lady,Jimi Hendrix,67,67,4,4
+"Baby, Now That I've Found You",The Foundations,11,11,13,13
+Darlin',The Beach Boys,19,19,9,9
+Skip A Rope,Henson Cargill,25,25,12,12
+The Lesson,Vikki Carr,34,34,8,8
+Spooky,Classics IV,3,3,15,15
+I Wonder What She's Doing Tonite,Tommy Boyce & Bobby Hart,8,8,14,14
+Mr. Bus Driver,Bruce Channel,90,90,2,2
+Mockingbird,Aretha Franklin,94,94,2,2
+I Call It Love,The Manhattans,96,96,3,3
+"Oh, How It Hurts",Barbara Mason,59,59,9,9
+"Up Tight, Good Man",Laura Lee,93,93,6,6
+She's A Rainbow,The Rolling Stones,25,25,7,7
+To Give (The Reason I Live),Frankie Valli,29,29,8,8
+Tomorrow,Strawberry Alarm Clock,23,23,10,10
+I'm Coming Home,Tom Jones,57,57,5,5
+Pick Up The Pieces,Carla Thomas,68,68,6,6
+Just As Much As Ever,Bobby Vinton,24,24,8,8
+Lost,Jerry Butler,62,62,6,6
+I Was Made To Love Her,King Curtis & The Kingpins,76,76,6,6
+United (Part 1),The Music Makers,78,78,7,7
+Mellow Moonlight,Leon Haywood,92,92,3,3
+We're A Winner,The Impressions,14,14,13,13
+Bottle Of Wine,The Fireballs,9,9,14,14
+Some Velvet Morning,Nancy Sinatra & Lee Hazlewood,26,26,8,8
+A Working Man's Prayer,Arthur Prysock,74,74,6,6
+No Sad Songs,Joe Simon,49,49,7,7
+Zabadak,"Dave Dee, Dozy, Beaky, Mick And Tich",52,52,6,6
+Money,The Lovin' Spoonful,48,48,6,6
+Sunday Mornin',Spanky And Our Gang,30,30,8,8
+Mission-Impossible,Lalo Schifrin,41,41,14,14
+A Man Needs A Woman,James Carr,63,63,10,10
+New Orleans,Neil Diamond,51,51,6,6
+Love Is Blue (L'amour Est Bleu),Paul Mauriat And His Orchestra,1,1,18,18
+Born Free,The Hesitations,38,38,10,10
+I Wish It Would Rain,The Temptations,4,4,14,14
+Sunshine Of Your Love,Cream,5,5,26,26
+We Can Fly,The Cowsills,21,21,9,9
+I Can Take Or Leave Your Loving,Herman's Hermits,22,22,11,11
+You,Marvin Gaye,34,34,7,7
+Do Unto Me,James & Bobby Purify,73,73,6,6
+Carmen,Herb Alpert & The Tijuana Brass,51,51,6,6
+Without Love (There Is Nothing),"Oscar Toney, Jr.",90,90,3,3
+(1-2-3-4-5-6-7) Count The Days,Inez & Charlie Foxx,76,76,5,5
+Let The Heartaches Begin,Long John Baldry,88,88,2,2
+Expecting To Fly,Buffalo Springfield,98,98,2,2
+Funky Way,Calvin Arnold,72,72,8,8
+(Theme From) Valley Of The Dolls,Dionne Warwick,2,2,13,13
+Words,Bee Gees,15,15,11,11
+Strawberry Shortcake,Jay And The Techniques,39,39,6,6
+There Was A Time,James Brown And The Famous Flames,36,36,8,8
+There Is,The Dells,20,20,11,11
+Hey Little One,Glen Campbell,54,54,7,7
+Looking For A Fox,Clarence Carter,62,62,8,8
+Hey Boy Take A Chance On Love,Ruby Andrews,92,92,1,1
+Give My Love A Try,Linda Jones,93,93,3,3
+To Each His Own,Frankie Laine,82,82,6,6
+Blessed Are The Lonely,Robert Knight,97,97,2,2
+Come Rain Or Come Shine,Ray Charles,83,98,4,2
+(Sittin' On) The Dock Of The Bay,Otis Redding,1,1,16,16
+I Thank You,Sam & Dave,9,9,13,13
+Simon Says,1910 Fruitgum Co.,4,4,14,14
+Get Out Now,Tommy James And The Shondells,48,48,7,7
+Stop,Howard Tate,76,76,5,5
+Guitar Man,Elvis Presley,43,43,6,6
+A Million To One,Five Stairsteps & Cubie,68,68,6,6
+Malayisha,Miriam Makeba,85,85,3,3
+Rosanna's Going Wild,Johnny Cash,91,91,2,2
+Cab Driver,The Mills Brothers,23,23,15,15
+7:30 Guided Tour,The Five Americans,96,96,2,2
+No One Knows,Every Mothers' Son,96,96,3,3
+Keep The Ball Rollin',Al Hirt,100,100,1,1
+Everything That Touches You,The Association,10,10,9,9
+Walk Away Renee,Four Tops,14,14,8,8
+Cold Feet,Albert King,67,67,4,4
+Burning Spear,The Soulful Strings,64,64,5,5
+Try It,Ohio Express,83,83,2,2
+La - La - Means I Love You,The Delfonics,4,4,15,15
+People World,Jim & Jean,94,94,3,3
+Carpet Man,The 5th Dimension,29,29,9,9
+It's Not Easy,The Will-O-Bees,95,95,3,3
+(You've Got) Personality And Chantilly Lace,Mitch Ryder,87,87,4,4
+Just Dropped In (To See What Condition My Condition Was In),The First Edition,5,5,10,10
+"Look, Here Comes The Sun",The Sunshine Company,56,56,5,5
+The End Of Our Road,Gladys Knight And The Pips,15,15,10,10
+Dance To The Music,Sly & The Family Stone,8,8,15,15
+Love Is Blue,Al Martino,57,57,7,7
+Too Much Talk,Paul Revere & The Raiders Featuring Mark Lindsay,19,19,8,8
+"Here Comes The Rain, Baby",Eddy Arnold,74,74,4,4
+Thank U Very Much,The Scaffold,69,69,5,5
+I'm Gonna Make You Love Me,Madeline Bell,26,26,9,9
+Maybe Just Today,Bobby Vee And The Strangers,46,46,6,6
+Where Is My Mind,The Vanilla Fudge,73,73,6,6
+You Don't Have To Say You Love Me,The Four Sonics,89,89,2,2
+Lovey Dovey,Otis & Carla,60,60,6,6
+Men Are Gettin' Scarce,Joe Tex,33,33,7,7
+Got What You Need,The Fantastic Johnny C,56,56,6,6
+Gentle On My Mind,Patti Page,66,66,16,16
+Country Girl - City Man,Billy Vera & Judy Clay,36,36,6,6
+The Ballad Of Bonnie And Clyde,Georgie Fame,7,7,14,14
+For Your Precious Love,Jackie Wilson & Count Basie,49,49,7,7
+In The Midnight Hour,The Mirettes,45,45,7,7
+This Is The Thanks I Get,Barbara Lynn,65,65,2,2
+Jealous Love,Wilson Pickett,50,50,5,5
+Night Fo' Last,Shorty Long,75,75,4,4
+I Say Love,The Royal Guardsmen,72,72,4,4
+Unchain My Heart,Herbie Mann,81,81,2,2
+Kiss Me Goodbye,Petula Clark,15,15,11,11
+Playboy,Gene And Debbe,17,17,16,16
+"(Mama Come Quick, and Bring Your) Lickin' Stick",George Torrence & The Naturals,91,91,2,2
+If You Ever Leave Me,Jack Jones,92,92,2,2
+Love Explosion,Troy Keyes,92,92,3,3
+"The Good, The Bad And The Ugly","Hugo Montenegro, His Orchestra And Chorus",2,2,22,22
+I'm Hypnotized,Anthony & The Imperials,98,98,1,1
+Music Music Music,The Happenings,96,96,2,2
+Suddenly You Love Me,The Tremeloes,44,44,10,10
+A Question Of Temperature,The Balloon Farm,37,37,8,8
+Will You Love Me Tomorrow,"The 4 Seasons Featuring the ""Sound of Frankie Valli""",24,24,8,8
+The Ten Commandments Of Love,Peaches & Herb,55,55,5,5
+Soulville,Aretha Franklin,83,83,3,3
+If You Can Want,Smokey Robinson & The Miracles,11,11,12,12
+That's A Lie,Ray Charles,64,64,8,8
+The Son Of Hickory Holler's Tramp,O.C. Smith,40,40,14,14
+Hey Hey Bunny,John Fred And The Playboys,57,57,6,6
+Green Light,The American Breed,39,39,7,7
+Springfield Plane,Kenny O'Dell,94,94,2,2
+Love Is Blue (L'Amour Est Bleu),Claudine Longet,71,71,9,9
+Love Is All Around,The Troggs,7,7,16,16
+Ame Caline (Soul Coaxing),Raymond Lefevre and His Orchestra,37,37,12,12
+Love Is Blue (L'Amour Est Bleu),Manny Kellem - His Orchestra And Voices,96,96,2,2
+(Sweet Sweet Baby) Since You've Been Gone,Aretha Franklin,5,5,12,12
+Cry Like A Baby,The Box Tops,2,2,15,15
+Scarborough Fair (/Canticle),Simon & Garfunkel,11,11,11,11
+Little Green Apples,Roger Miller,39,39,9,9
+Mighty Quinn (Quinn The Eskimo),Manfred Mann,10,10,11,11
+If This World Were Mine,Marvin Gaye & Tammi Terrell,68,68,6,6
+Security,Etta James,35,35,10,10
+L. David Sloane,Michele Lee,52,52,11,11
+Young Girl,The Union Gap Featuring Gary Puckett,2,2,15,15
+Sweet Inspiration,The Sweet Inspirations,18,18,14,14
+Summertime Blues,Blue Cheer,14,14,13,13
+Sound Asleep,The Turtles,57,57,6,6
+Funky North Philly,Bill Cosby,91,91,3,3
+Foggy Mountain Breakdown,Flatt & Scruggs,55,55,12,12
+Dear Delilah,Grapefruit,98,98,1,1
+Sally Was A Good Old Girl,Trini Lopez,99,99,2,2
+You've Got To Be Loved,The Montanas,58,58,7,7
+Valleri,The Monkees,3,3,10,10
+Tapioca Tundra,The Monkees,34,34,6,6
+Soul Serenade,Willie Mitchell,23,23,15,15
+Rice Is Nice,The Lemon Pipers,46,46,7,7
+I'll Say Forever My Love,Jimmy Ruffin,77,77,5,5
+Jennifer Juniper,Donovan,26,26,9,9
+(Sittin' On) The Dock Of The Bay,King Curtis & The Kingpins,84,84,5,5
+Back On My Feet Again,The Foundations,59,59,6,6
+Turn On Your Love Light,The Human Beinz,80,80,5,5
+(You Can't Let The Boy Overpower) The Man In You,Chuck Jackson,94,94,1,1
+Driftin' Blues,Bobby Bland,96,96,3,3
+Have A Little Faith,David Houston,98,98,2,2
+Lovey Dovey Kinda Lovin',Brenton Wood,99,99,2,2
+I Got The Feelin',James Brown And The Famous Flames,6,6,12,12
+Forever Came Today,Diana Ross & The Supremes,28,28,9,9
+Take Time To Know Her,Percy Sledge,11,11,14,14
+Sit With The Guru,Strawberry Alarm Clock,65,65,5,5
+Jennifer Eccles,The Hollies,40,40,11,11
+Funky Street,Arthur Conley,14,14,12,12
+Tin Soldier,Small Faces,73,73,5,5
+Stay Away,Elvis Presley With The Jordanaires,67,67,5,5
+In Need Of A Friend,The Cowsills,54,54,6,6
+Baby You're So Right For Me,Brenda & The Tabulations,86,86,4,4
+1941,Tom Northcott,88,88,2,2
+At The Top Of The Stairs,The Formations,83,83,5,5
+The Impossible Dream,The Hesitations,42,42,8,8
+The Father Of Girls,Perry Como,92,92,2,2
+Up From The Skies,The Jimi Hendrix Experience,82,82,4,4
+Dr. Jon (The Medicine Man),Jon & Robin And The In Crowd,87,87,4,4
+Delilah,Tom Jones,15,15,15,15
+In Some Time,Ronnie Dove,99,99,3,3
+Lady Madonna,The Beatles,4,4,11,11
+Honey,Bobby Goldsboro,1,1,15,15
+U.S. Male,Elvis Presley With The Jordanaires,28,28,9,9
+The Unicorn,The Irish Rovers,7,7,12,12
+Come To Me Softly,Jimmy James & The Vagabonds,76,76,3,3
+Cowboys To Girls,The Intruders,6,6,14,14
+You've Still Got A Place In My Heart,Dean Martin,60,60,7,7
+"Me, The Peaceful Heart",Lulu,53,53,7,7
+100 Years,Nancy Sinatra,69,69,6,6
+Sherry Don't Go,The Lettermen,52,52,8,8
+She'll Be There,Vikki Carr,99,99,3,3
+The Unknown Soldier,The Doors,39,39,8,8
+Call Me Lightning,The Who,40,40,8,8
+Tighten Up,Archie Bell & The Drells,1,1,15,15
+Take Good Care Of My Baby,Bobby Vinton,33,33,8,8
+Cinderella Rockefella,Esther & Abi Ofarim,68,68,6,6
+Show Time,Detroit Emeralds,89,89,5,5
+Your Heart Is Free Just Like The Wind,Vikki Carr,91,91,5,5
+Up To My Neck In High Muddy Water,Linda Ronstadt & The Stone Poneys,93,93,2,2
+Master Jack,Four Jacks And A Jill,18,18,14,14
+I Will Always Think About You,The New Colony Six,22,22,13,13
+The Inner Light,The Beatles,96,96,1,1
+Another Place Another Time,Jerry Lee Lewis,97,97,2,2
+Goodbye Baby (I Don't Want To See You Cry),Tommy Boyce & Bobby Hart,53,53,6,6
+Shoo-Be-Doo-Be-Doo-Da-Day,Stevie Wonder,9,9,13,13
+Look To Your Soul,Johnny Rivers,49,49,7,7
+Ain't No Way,Aretha Franklin,16,16,8,8
+I Got A Sure Thing,Ollie & The Nightingales,73,73,9,9
+Up On The Roof,The Cryan' Shames,85,85,3,3
+I Wanna Live,Glen Campbell,36,36,12,12
+Jumbo,Bee Gees,57,57,6,6
+Mony Mony,Tommy James And The Shondells,3,3,17,17
+I Love You,People,14,14,18,18
+Chain Of Fools (Part 1),Jimmy Smith,100,100,2,2
+A Beautiful Morning,The Rascals,3,3,13,13
+She's Lookin' Good,Wilson Pickett,15,15,10,10
+Red Red Wine,Neil Diamond,62,62,3,3
+Ain't Nothing Like The Real Thing,Marvin Gaye & Tammi Terrell,8,8,13,13
+Wear It On Our Face,The Dells,44,44,8,8
+Do You Know The Way To San José,Dionne Warwick,10,10,12,12
+I Can't Believe I'm Losing You,Frank Sinatra,60,60,5,5
+(You Keep Me) Hangin' On,Joe Simon,25,25,15,15
+Funky Walk Part I (East),Dyke And The Blazers,67,67,5,5
+Loving You Has Made Me Bananas,Guy Marks,51,51,6,6
+If You Don't Want My Love,Robert John,49,49,12,12
+Anything,Eric Burdon & The Animals,80,80,4,4
+Goin' Away,The Fireballs,79,79,4,4
+Baby Make Your Own Sweet Music,Jay And The Techniques,64,64,8,8
+Like To Get To Know You,Spanky And Our Gang,17,17,11,11
+Impossible Mission (Mission Impossible),Soul Survivors,68,68,6,6
+Paying The Cost To Be The Boss,B.B. King,39,39,7,7
+We're Rolling On (Part I),The Impressions,59,59,7,7
+My Girl/Hey Girl,Bobby Vee,35,35,9,9
+Cabaret,Herb Alpert & The Tijuana Brass,72,72,6,6
+I Promise To Wait My Love,Martha Reeves & The Vandellas,62,62,7,7
+May I Take A Giant Step (Into Your Heart),1910 Fruitgum Co.,63,63,8,8
+You'll Never Walk Alone,Elvis Presley With The Jordanaires,90,90,2,2
+Love In Them There Hills,The Vibrations,93,93,2,2
+The Shadow Of Your Love,5 Stairsteps and Cubie,94,94,1,1
+Never Get Enough Of Your Love,"Oscar Toney, Jr.",95,95,2,2
+Friends,The Beach Boys,47,47,7,7
+Does Your Mama Know About Me,Bobby Taylor & The Vancouvers,29,29,10,10
+Greasy Heart,Jefferson Airplane,98,98,3,3
+Unwind,Ray Stevens,52,52,9,9
+Louisiana Man,Bobbie Gentry,100,100,1,1
+Mrs. Robinson,Simon & Garfunkel,1,1,13,13
+Chain Gang,Jackie Wilson & Count Basie,84,84,5,5
+The Happy Song (Dum-Dum),Otis Redding,25,25,8,8
+I'm Sorry,The Delfonics,42,42,9,9
+I Can Remember,James & Bobby Purify,51,51,6,6
+Lili Marlene,Al Martino,87,87,7,7
+If I Were A Carpenter,Four Tops,20,20,10,10
+A Tribute To A King,William Bell,86,86,6,6
+I Could Never Love Another (After Loving You),The Temptations,13,13,10,10
+Yummy Yummy Yummy,Ohio Express,4,4,14,14
+Soul Train,Classics IV,90,90,3,3
+Never Give You Up,Jerry Butler,20,20,14,14
+I Have A Dream,"Rev. Martin Luther King, Jr.",88,88,4,4
+He Don't Really Love You,The Delfonics,92,92,4,4
+I Wish I Knew (How It Would Feel To Be Free),Solomon Burke,68,68,8,8
+Angel Of The Morning,Merrilee Rush & The Turnabouts,7,7,16,16
+Here's To You,Hamilton Camp,76,76,5,5
+How'd We Ever Get This Way,Andy Kim,21,21,12,12
+The Look Of Love,Sergio Mendes & Brasil '66,4,4,14,14
+MacArthur Park,Richard Harris,2,2,13,13
+Love In Every Room,Paul Mauriat And His Orchestra,60,60,6,6
+A Man Without Love (Quando M'innamoro),Engelbert Humperdinck,19,19,9,9
+You Ain't Going Nowhere,The Byrds,74,74,5,5
+Sleepy Joe,Herman's Hermits,61,61,6,6
+"Face It Girl, It's Over",Nancy Wilson,29,29,14,14
+Apologize,Ed Ames,79,79,6,6
+Brooklyn Roads,Neil Diamond,58,58,6,6
+Anyone For Tennis,Cream,64,64,5,5
+She's A Heartbreaker,Gene Pitney,16,16,13,13
+Think,Aretha Franklin,7,7,10,10
+Jelly Jungle (Of Orange Marmalade),Lemon Pipers,51,51,5,5
+This Guy's In Love With You,Herb Alpert,1,1,14,14
+Time For Livin',The Association,39,39,8,8
+I'll Never Do You Wrong,Joe Tex,59,59,5,5
+Tip-Toe Thru' The Tulips With Me,Tiny Tim,17,17,9,9
+My Shy Violet,The Mills Brothers,73,73,7,7
+I Got You Babe,Etta James,69,69,7,7
+United,Peaches & Herb,46,46,8,8
+It's Over,Eddy Arnold,74,74,7,7
+Reach Out Of The Darkness,Friend And Lover,10,10,14,14
+I Can't Make It Alone,Bill Medley,95,95,2,2
+Pictures Of Matchstick Men,The Status Quo,12,12,17,17
+The Doctor,Mary Wells,65,65,8,8
+The Horse,Cliff Nobles & Co.,2,2,14,14
+Licking Stick - Licking Stick (Part 1),James Brown And The Famous Flames,14,14,8,8
+You Don't Know What You Mean To Me,Sam & Dave,48,48,8,8
+America Is My Home - Pt. 1,James Brown And The Famous Flames,52,52,7,7
+Climb Every Mountain,The Hesitations,90,90,3,3
+Hold On,Radiants,68,68,9,9
+Lonely Is The Name,Sammy Davis Jr.,93,93,3,3
+Folsom Prison Blues,Johnny Cash,32,32,12,12
+Bring A Little Lovin',Los Bravos,51,51,7,7
+Don't Sign The Paper Baby (I Want You Back),Jimmy Delphs,96,96,4,4
+"Ready, Willing and Able",The American Breed,84,84,3,3
+Choo Choo Train,The Box Tops,26,26,8,8
+Yester Love,Smokey Robinson & The Miracles,31,31,8,8
+Indian Lake,The Cowsills,10,10,13,13
+Here Comes The Judge,Shorty Long,8,8,11,11
+Sky Pilot (Part One),Eric Burdon & The Animals,14,14,14,14
+San Francisco Girls (Return of the Native),Fever Tree,91,91,6,6
+Here Come Da Judge,The Buena Vistas,88,88,4,4
+Stoned Soul Picnic,The 5th Dimension,3,3,16,16
+Funky Fever,Clarence Carter,88,88,3,3
+Ain't Nothin' But A House Party,The Show Stoppers,87,87,5,5
+Here Come The Judge,The Magistrates,54,54,7,7
+Jumpin' Jack Flash,The Rolling Stones,3,3,12,12
+Some Things You Never Get Used To,Diana Ross & The Supremes,30,30,7,7
+Lady Willpower,Gary Puckett And The Union Gap,2,2,13,13
+It Should Have Been Me,Gladys Knight And The Pips,40,40,8,8
+Back In Love Again,The Buckinghams,57,57,6,6
+Safe In My Garden,The Mamas & The Papas,53,53,6,6
+Mountain Of Love,Ronnie Dove,67,67,6,6
+Grazing In The Grass,Hugh Masekela,1,1,12,12
+Here I Am Baby,The Marvelettes,44,44,9,9
+Eleanor Rigby,Ray Charles,35,35,10,10
+Lover's Holiday,Peggy Scott & Jo Jo Benson,31,31,12,12
+Let Me Be Lonely,Dionne Warwick,71,71,5,5
+Baby You Come Rollin' Across My Mind,The Peppermint Trolley Company,59,59,10,10
+Sweet Memories,Andy Williams,75,75,6,6
+Congratulations,Cliff Richard,99,99,3,3
+D. W. Washburn,The Monkees,19,19,7,7
+You Send Me,Aretha Franklin,56,56,6,6
+Here Comes The Judge,Pigmeat Markham,19,19,8,8
+It's Nice To Be With You,The Monkees,51,51,7,7
+Understanding,Ray Charles,46,46,12,12
+Can't You See Me Cry,The New Colony Six,52,52,8,8
+Let Yourself Go,Elvis Presley With The Jordanaires,71,71,5,5
+"Turn Around, Look At Me",The Vogues,7,7,15,15
+Listen Here,Eddie Harris,45,45,13,13
+Forget Me Not,Martha Reeves & The Vandellas,93,93,3,3
+Valley Of The Dolls,King Curtis & The Kingpins,83,83,2,2
+People Sure Act Funny,Arthur Conley,58,58,5,5
+The Story Of Rock And Roll,The Turtles,48,48,6,6
+Hurdy Gurdy Man,Donovan,5,5,12,12
+Don't Take It So Hard,Paul Revere & The Raiders Featuring Mark Lindsay,27,27,9,9
+"Be Young, Be Foolish, Be Happy",The Tams,61,61,6,6
+Turn On Your Love Light,Bill Black's Combo,82,82,6,6
+D-I-V-O-R-C-E,Tammy Wynette,63,63,6,6
+(The Puppet Song) Whiskey On A Sunday,The Irish Rovers,75,75,7,7
+Young Boy,Barbara Greene,86,86,6,6
+"Your Time Hasn't Come Yet, Baby",Elvis Presley With The Jordanaires,72,72,7,7
+Classical Gas,Mason Williams,2,2,14,14
+I'm A Midnight Mover,Wilson Pickett,24,24,7,7
+The Eyes Of A New York Woman,B.J. Thomas,28,28,14,14
+Sealed With A Kiss,Gary Lewis And The Playboys,19,19,14,14
+Young Birds Fly,The Cryan' Shames,99,99,2,2
+Hitch It To The Horse,The Fantastic Johnny C,34,34,9,9
+With Pen In Hand,Billy Vera,43,43,6,6
+Hang 'Em High,"Hugo Montenegro, His Orchestra And Chorus",82,82,5,5
+Stay In My Corner,The Dells,10,10,13,13
+Autumn Of My Life,Bobby Goldsboro,19,19,9,9
+Dreams Of The Everyday Housewife,Wayne Newton,60,60,7,7
+Look Over Your Shoulder,The O'Jays,89,89,5,5
+Competition Ain't Nothin',Little Carl Carlton,75,75,8,8
+Journey To The Center Of The Mind,The Amboy Dukes,16,16,12,12
+Lovin' Season,Gene And Debbe,81,81,4,4
+Dreams Of The Everyday Housewife,Glen Campbell,32,32,8,8
+"Hello, I Love You",The Doors,1,1,12,12
+Alice Long (You're Still My Favorite Girlfriend),Tommy Boyce & Bobby Hart,27,27,10,10
+Amen,Otis Redding,36,36,5,5
+Georgia On My Mind,Wes Montgomery,91,91,3,3
+To Love Somebody,The Sweet Inspirations,74,74,4,4
+Dream A Little Dream Of Me,Mama Cass With The Mamas & The Papas,12,12,11,11
+What's Made Milwaukee Famous (Has Made A Loser Out Of Me),Jerry Lee Lewis,94,94,3,3
+Just A Little Bit,Blue Cheer,92,92,4,4
+Little Green Apples,Patti Page,96,96,2,2
+(Love Is Like A) Baseball Game,The Intruders,26,26,9,9
+Send My Baby Back,Freddie Hughes,94,94,6,6
+Born To Be Wild,Steppenwolf,2,2,13,13
+You Keep Me Hangin' On,The Vanilla Fudge,6,6,17,12
+The Impossible Dream,Roger Williams,55,55,7,7
+Soul-Limbo,Booker T. & The MG's,17,17,10,10
+Prayer Meetin',Willie Mitchell,45,45,7,7
+Hard To Handle,Otis Redding,51,51,7,7
+Snoopy For President,The Royal Guardsmen,85,85,2,2
+Mrs. Bluebird,Eternity's Children,69,69,7,7
+Slip Away,Clarence Carter,6,6,16,16
+Love Makes A Woman,Barbara Acklin,15,15,12,12
+Two-Bit Manchild,Neil Diamond,66,66,6,6
+People Got To Be Free,The Rascals,1,1,14,14
+Halfway To Paradise,Bobby Vinton,23,23,7,7
+You Met Your Match,Stevie Wonder,35,35,7,7
+I Can't Stop Dancing,Archie Bell & The Drells,9,9,10,10
+God Bless Our Love,The Ballads,65,65,7,7
+Don't Give Up,Petula Clark,37,37,7,7
+I Get The Sweetest Feeling,Jackie Wilson,34,34,8,8
+And Suddenly,The Cherry People,45,45,8,8
+Yesterday's Dreams,Four Tops,49,49,6,6
+I Loved And I Lost,The Impressions,61,61,8,8
+Tuesday Afternoon (Forever Afternoon),The Moody Blues,24,24,11,11
+Give Me One More Chance,Wilmer And The Dukes,80,80,6,6
+Light My Fire,Jose Feliciano,3,3,12,12
+"I Guess I'll Have To Cry, Cry, Cry",James Brown And The Famous Flames,55,55,6,6
+Happy,Nancy Sinatra,74,74,4,4
+You're All I Need To Get By,Marvin Gaye & Tammi Terrell,7,7,12,12
+"1, 2, 3, Red Light",1910 Fruitgum Co.,5,5,13,13
+Breaking Up Is Hard To Do,The Happenings,67,67,5,5
+Do It Again,The Beach Boys,20,20,10,10
+Somebody Cares,Tommy James And The Shondells,53,53,5,5
+I've Never Found A Girl (To Love Me Like You Do),Eddie Floyd,40,40,9,9
+Life,Sly & The Family Stone,93,93,3,3
+I'm Gonna Do What They Do To Me,B.B. King,74,74,5,5
+Mr. Bojangles,Jerry Jeff Walker,77,77,5,5
+Never Going Back,The Lovin' Spoonful,73,73,5,5
+Soul Meeting,The Soul Clan,91,91,4,4
+Brown Eyed Woman,Bill Medley,43,43,11,11
+Please Return Your Love To Me,The Temptations,26,26,7,7
+Can't You Find Another Way (Of Doing It),Sam & Dave,54,54,6,6
+Mister Bo Jangles,Bobby Cole,79,79,3,3
+Down At Lulu's,Ohio Express,33,33,9,9
+Mr. Businessman,Ray Stevens,28,28,7,7
+Girls Can't Do What The Guys Do,Betty Wright,33,33,8,8
+Anyway That You Want Me,The American Breed,88,88,4,4
+Give A Damn,Spanky And Our Gang,43,43,8,8
+Workin' On A Groovy Thing,Patti Drew,62,62,11,11
+Sudden Stop,Percy Sledge,63,63,5,5
+Montage From How Sweet It Is (I Know That You Know),The Love Generation,86,86,3,3
+Sally Had A Party,Flavor,95,95,5,5
+The Fool On The Hill,Sergio Mendes & Brasil '66,6,6,12,12
+Morning Dew,Lulu,52,52,8,8
+Keep The One You Got,Joe Tex,52,52,5,5
+Magic Bus,The Who,25,25,9,9
+Hip City - Pt. 2,Jr. Walker & The All Stars,31,31,11,11
+I Heard It Thru The Grapevine,King Curtis & The Kingpins,83,83,3,3
+I Can't Dance To That Music You're Playin',Martha Reeves & The Vandellas,42,42,8,8
+I Am Your Man,Bobby Taylor & The Vancouvers,85,85,3,3
+Time Has Come Today,The Chambers Brothers,11,11,14,14
+Tell Someone You Love Them,"Dino, Desi & Billy",92,92,4,4
+M'Lady,Sly & The Family Stone,93,93,3,3
+Mister Nico,Four Jacks And A Jill,96,96,2,2
+On The Road Again,Canned Heat,16,16,11,11
+The House That Jack Built,Aretha Franklin,6,6,9,9
+I Say A Little Prayer,Aretha Franklin,10,10,11,11
+Hush,Deep Purple,4,4,10,10
+Special Occasion,Smokey Robinson & The Miracles,26,26,9,9
+Girl Watcher,The O'Kaysions,5,5,14,14
+The Snake,Al Wilson,27,27,10,10
+Little Green Apples,O.C. Smith,2,2,16,16
+I've Gotta Get A Message To You,Bee Gees,8,8,13,13
+Fly Me To The Moon,Bobby Womack,52,52,13,13
+Harper Valley P.T.A.,Jeannie C. Riley,1,1,13,13
+I Wish It Would Rain,Gladys Knight And The Pips,41,41,10,10
+Six Man Band,The Association,47,47,6,6
+Don't Change Your Love,Five Stairsteps & Cubie,59,59,9,9
+In-A-Gadda-Da-Vida,Iron Butterfly,30,30,12,12
+The Woman I Love,B.B. King,94,94,3,3
+Who Is Gonna Love Me?,Dionne Warwick,33,33,9,9
+Bring Back Those Rockabye Baby Days,Tiny Tim,95,95,2,2
+The Funky Judge,Bull & The Matadors,39,39,14,14
+She's About A Mover,Otis Clay,97,97,3,3
+The Weight,Jackie DeShannon,55,55,8,8
+To Wait For Love,Herb Alpert,51,51,6,6
+Help Yourself,Tom Jones,35,35,8,8
+(The Lament Of The Cherokee) Indian Reservation,Don Fardon,20,20,9,9
+Midnight Confessions,The Grass Roots,5,5,14,14
+Barefoot In Baltimore,Strawberry Alarm Clock,67,67,4,4
+Down On Me,Big Brother And The Holding Company,43,43,8,8
+Unchained Melody,The Sweet Inspirations,73,73,5,5
+My Way Of Life,Frank Sinatra,64,64,6,6
+Down Here On The Ground,Lou Rawls,69,69,5,5
+Piece Of My Heart,Big Brother And The Holding Company,12,12,12,12
+Private Number,Judy Clay & William Bell,75,75,6,6
+"Hey, Western Union Man",Jerry Butler,16,16,13,13
+The Weight,The Band,63,63,7,7
+(There's) Always Something There To Remind Me,Dionne Warwick,65,65,5,5
+Break Your Promise,The Delfonics,35,35,10,10
+Do What You Gotta Do,Bobby Vee,83,83,4,4
+That Kind Of Woman,Merrilee Rush & The Turnabouts,76,76,6,6
+The Mule,The James Boys,82,82,4,4
+Light My Fire,The Doors,1,87,23,6
+Help Yourself (To All Of My Lovin'),James & Bobby Purify,94,94,3,3
+If Love Is In Your Heart,Friend And Lover,86,86,2,2
+Since You've Been Gone,Ramsey Lewis,98,98,2,2
+Naturally Stoned,The Avant-Garde,40,40,10,10
+Say It Loud - I'm Black And I'm Proud (Part 1),James Brown,10,10,11,11
+My Special Angel,The Vogues,7,7,10,10
+"Baby, Come Back",The Equals,32,32,9,9
+Fire,The Crazy World Of Arthur Brown,2,2,13,13
+Street Fighting Man,The Rolling Stones,48,48,6,6
+Then You Can Tell Me Goodbye,Eddy Arnold,84,84,4,4
+"Shoot'em Up, Baby",Andy Kim,31,31,10,10
+Shape Of Things To Come,Max Frost And The Troopers,22,22,12,12
+Suzie Q. (Part One),Creedence Clearwater Revival,11,11,12,12
+Fool For You,The Impressions,22,22,12,12
+Lady Madonna,Fats Domino,100,100,2,2
+Hey Jude,The Beatles,1,1,12,12
+Revolution,The Beatles,12,12,11,11
+Chained,Marvin Gaye,32,32,10,10
+I Met Her In Church,The Box Tops,37,37,6,6
+Poor Baby,The Cowsills,44,44,6,6
+Gentle On My Mind,Glen Campbell,39,39,16,9
+For The Love Of Ivy,The Mamas & The Papas,81,81,5,5
+Do The Best You Can,The Hollies,93,93,1,1
+"The Biplane, Ever More",The Irish Rovers,91,91,5,5
+(I Can Feel Your Love) Slipping Away,Barbara Mason,97,97,1,1
+Hold Me Tight,Johnny Nash,5,5,12,12
+Horse Fever,Cliff Nobles & Co.,68,68,5,5
+Over You,Gary Puckett And The Union Gap,7,7,11,11
+All Along The Watchtower,The Jimi Hendrix Experience,20,20,9,9
+I Found A True Love,Wilson Pickett,42,42,7,7
+There Was A Time,Gene Chandler,82,82,3,3
+Battle Of New Orleans,Harpers Bizarre,95,95,2,2
+The Choice,The O'Jays,94,94,3,3
+Elenore,The Turtles,6,6,11,11
+Tomboy,Ronnie Dove,96,96,3,3
+I Love You Madly,Fantastic Four,56,56,9,9
+Court Of Love,The Unifics,25,25,9,9
+I've Got Dreams To Remember,Otis Redding,41,41,7,7
+Those Were The Days,Mary Hopkin,2,2,10,10
+Bang-Shang-A-Lang,The Archies,24,24,10,10
+Ice In The Sun,The Status Quo,70,70,3,3
+"Oh Lord, Why Lord",Los Pop Tops,78,78,4,4
+Message From Maria,Joe Simon,75,75,4,4
+Do The Choo Choo,Archie Bell & The Drells,44,44,7,7
+Sweet Young Thing Like You,Ray Charles,83,83,2,2
+I Ain't Got To Love Nobody Else,The Masqueraders,57,57,5,5
+Sweet Blindness,The 5th Dimension,13,13,10,10
+Puffin' On Down The Track,Hugh Masekela,71,71,5,5
+The B.B. Jones,B.B. King,98,98,1,1
+Almost In Love,Elvis Presley With The Jordanaires,95,95,2,2
+Peace Of Mind,Nancy Wilson,55,55,7,7
+White Room,Cream,6,6,9,9
+Lalena,Donovan,33,33,6,6
+Destination: Anywhere,The Marvelettes,63,63,5,5
+Take Me For A Little While,Vanilla Fudge,38,38,8,8
+Alfie,Eivets Rednow,66,66,6,6
+Magic Carpet Ride,Steppenwolf,3,3,9,9
+You Got The Love,Professor Morrison's Lollipop,88,88,3,3
+Quick Joey Small (Run Joey Run),Kasenetz-Katz Singing Orchestral Circus,28,28,9,9
+You Put It On Me,B.B. King,82,82,5,5
+Up-Hard,Willie Mitchell,91,91,4,4
+Nitty Gritty,Ricardo Ray,90,90,3,3
+I'm In A Different World,Four Tops,51,51,6,6
+Smell Of Incense,Southwest F.O.B.,56,56,5,5
+Sunday Sun,Neil Diamond,68,68,5,5
+Keep On Lovin' Me Honey,Marvin Gaye & Tammi Terrell,24,24,7,7
+Always Together,The Dells,18,18,8,8
+Hitchcock Railway,Jose Feliciano,77,77,3,3
+A Little Less Conversation,Elvis Presley With The Jordanaires,69,69,4,4
+Cinderella Sunshine,Paul Revere & The Raiders Featuring Mark Lindsay,58,58,6,6
+On The Way Home,Buffalo Springfield,82,82,3,3
+Porpoise Song,The Monkees,62,62,6,6
+Harper Valley P.T.A.,King Curtis & The Kingpins,93,93,2,2
+Cycles,Frank Sinatra,23,23,8,8
+Baroque-A-Nova,Mason Williams,96,96,2,2
+Little Arrows,Leapy Lee,19,19,8,8
+Do Something To Me,Tommy James And The Shondells,38,38,8,8
+"You Need Me, Baby",Joe Tex,81,81,3,3
+Ride My See-Saw,The Moody Blues,61,61,5,5
+Love Child,Diana Ross & The Supremes,1,1,7,7
+Hi-Heel Sneakers,Jose Feliciano,25,25,7,7
+Chewy Chewy,Ohio Express,15,15,7,7
+Pickin' Wild Mountain Berries,Peggy Scott & Jo Jo Benson,37,37,7,7
+Bring It On Home To Me,Eddie Floyd,21,21,7,7
+Where Do I Go,Carla Thomas,86,86,2,2
+From The Teacher To The Preacher,Gene Chandler & Barbara Acklin,57,57,7,7
+"Listen, They're Playing My Song",Ray Charles,92,92,2,2
+Battle Hymn Of The Republic,Andy Williams with the St. Charles Borromeo Choir,35,35,7,7
+Soul Drippin',The Mauds,85,85,4,4
+Les Bicyclettes De Belsize,Engelbert Humperdinck,31,31,7,7
+Isn't It Lonely Together,Robert Knight,97,97,2,2
+Never My Love,The Sandpebbles,98,98,2,2
+Do What You Gotta Do,Nina Simone,83,83,5,5
+Who's Making Love,Johnnie Taylor,6,6,6,6
+"Abraham, Martin And John",Dion,5,5,6,6
+Cinnamon,Derek,34,34,6,6
+Shake,Shadows Of Knight,46,46,6,6
+The Straight Life,Bobby Goldsboro,36,36,6,6
+Harper Valley P.T.A. (Later That Same Day),Ben Colder,67,67,5,5
+1432 Franklin Pike Circle Hero,Bobby Russell,36,36,6,6
+Stormy,Classics IV Featuring Dennis Yost,11,11,6,6
+"Shame, Shame",Magic Lanterns,30,30,6,6
+It's Crazy,Eddie Harris,88,88,2,2
+Goody Goody Gumdrops,1910 Fruitgum Co.,45,45,6,6
+I Walk Alone,Marty Robbins,66,66,6,6
+Peace Brother Peace,Bill Medley,48,48,6,6
+Aunt Dora's Love Soul Shack,Arthur Conley,85,85,4,4
+Mornin' Glory,Bobbie Gentry & Glen Campbell,74,74,6,6
+Golden Gate Park,Rejoice!,96,96,1,1
+Do Your Own Thing,Brook Benton,99,99,2,2
+Jesse Brady,The McCoys,98,98,2,2
+I Love How You Love Me,Bobby Vinton,12,12,5,5
+"Promises, Promises",Dionne Warwick,20,20,5,5
+Wichita Lineman,Glen Campbell,8,8,5,5
+For Once In My Life,Stevie Wonder,7,7,5,5
+For Once In My Life,Jackie Wilson,70,70,3,3
+Everybody Got To Believe In Somebody,Sam & Dave,73,73,3,3
+Sweet Darlin',Martha Reeves & The Vandellas,80,80,5,5
+Fire,Five By Five,52,52,5,5
+The Star-Spangled Banner,Jose Feliciano,50,50,5,5
+Crown Of Creation,Jefferson Airplane,70,70,5,5
+Billy You're My Friend,Gene Pitney,92,92,3,3
+Not Enough Indians,Dean Martin,43,43,5,5
+California Earthquake,Mama Cass,67,67,5,5
+Talking About My Baby,Gloria Walker,60,60,5,5
+The Yard Went On Forever,Richard Harris,64,64,5,5
+"Come On, React!",The Fireballs,86,86,5,5
+Too Weak To Fight,Clarence Carter,39,39,4,4
+Both Sides Now,Judy Collins,13,13,4,4
+Goodbye My Love,James Brown,49,49,4,4
+Slow Drag,The Intruders,55,55,4,4
+Kentucky Woman,Deep Purple,44,44,4,4
+Hang 'Em High,Booker T. & The MG's,51,51,4,4
+I Put A Spell On You,Creedence Clearwater Revival,72,72,4,4
+Let's Make A Promise,Peaches & Herb,75,75,4,4
+Stand By Your Man,Tammy Wynette,71,71,4,4
+A Whiter Shade Of Pale,The Hesitations,100,100,2,2
+Cloud Nine,The Temptations,26,26,3,3
+Scarborough Fair,Sergio Mendes & Brasil '66,41,41,3,3
+Rockin' In The Same Old Boat,Bobby Bland,69,69,3,3
+A Man And A Half,Wilson Pickett,75,75,3,3
+Put Your Head On My Shoulder,The Lettermen,47,47,3,3
+People,The Tymes,54,54,3,3
+With A Little Help From My Friends,Joe Cocker,80,80,3,3
+(She's) Some Kind Of Wonderful,The Fantastic Johnny C,87,87,2,2
+Just Ain't No Love,Barbara Acklin,87,87,3,3
+Baby Let's Wait,The Royal Guardsmen,90,90,3,3
+Ballad Of Two Brothers,Autry Inman,56,56,3,3
+Hard To Handle,Patti Drew,93,93,2,2
+I've Got Love For My Baby,Young Hearts,94,94,3,3
+Hooked On A Feeling,B.J. Thomas,58,58,3,3
+I Worry About You,Joe Simon,98,98,1,1
+I Heard It Through The Grapevine,Marvin Gaye,16,16,2,2
+See Saw,Aretha Franklin,22,22,2,2
+Till,The Vogues,42,42,2,2
+I Can't Turn You Loose,The Chambers Brothers,53,53,2,2
+Right Relations,Johnny Rivers,63,63,2,2
+American Boys,Petula Clark,76,76,2,2
+Love Machine,The O'Kaysions,81,81,2,2
+Chitty Chitty Bang Bang,Paul Mauriat,82,82,2,2
+The Ol' Race Track,The Mills Brothers,83,83,2,2
+Coo Coo,Big Brother And The Holding Company,84,84,2,2
+Do You Wanna Dance,The Mamas & The Papas,88,88,2,2
+Keep On Dancing,Alvin Cash,89,89,2,2
+Living In The U.s.a.,The Steve Miller Band,94,94,2,2
+Born To Be With You,Sonny James,96,96,2,2
+White Houses,Eric Burdon & The Animals,97,97,2,2
+Don't Cry My Love,The Impressions,78,78,2,2
+Lo Mucho Que Te Quiero (The More I Love You),Rene & Rene,61,61,2,2
+Papa's Got A Brand New Bag,Otis Redding,57,57,1,1
+Son-Of-A Preacher Man,Dusty Springfield,62,62,1,1
+Soulful Strut,Young-Holt Unlimited,65,65,1,1
+Crosstown Traffic,The Jimi Hendrix Experience,73,73,1,1
+My Song,Aretha Franklin,77,77,1,1
+Good Time Girl,Nancy Sinatra,91,91,1,1
+Don't Make The Good Girls Go Bad,Della Humphrey,92,92,1,1
+Everyday People,Sly & The Family Stone,93,93,1,1
+This Is My Country,The Impressions,98,98,1,1
+Bella Linda,The Grass Roots,99,99,1,1
+If I Can Dream,Elvis Presley,100,100,1,1

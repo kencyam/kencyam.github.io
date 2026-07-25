@@ -127,7 +127,17 @@ export default function MusicBlogSearch() {
               <b>Miscellaneous</b>
             </u>
           </h3>
-          <h4>None yet!</h4>
+          <ul
+            className="remove-list-bullet"
+            style={{ paddingLeft: "0px", fontSize: "xx-large" }}
+          >
+            <li>
+              <Link to="/musicblog/00007">
+                Compilation of All Public Charted Billboard Songs Sorted By Year
+                (1959-Present)
+              </Link>
+            </li>
+          </ul>
         </div>
       );
     case MusicTags.RandomRecommendations:
