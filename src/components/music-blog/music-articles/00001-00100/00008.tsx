@@ -28,7 +28,7 @@ export default function MusicArticle() {
       </p>
       <p>
         She starts off with her lead single "drop dead" which I've written about{" "}
-        <a href="https://kencyam.github.io/#/musicblog/00003" target="_blank">
+        <a href="https://kencyam.github.io/#/music-blog/00003" target="_blank">
           here. So far, it's what we know that Olivia is in the beginnings of
           her infatuation of another man. It sets us up to want to know where
           this is going.

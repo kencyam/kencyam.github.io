@@ -38,7 +38,7 @@ function App() {
               <Link to="/projects">Projects</Link>
             </li>
             <li>
-              <Link to="/musicblog">Music Blog</Link>
+              <Link to="/music-blog">Music Blog</Link>
             </li>
           </ul>
         </nav>
@@ -46,7 +46,7 @@ function App() {
           <Route path="/" element={<Landing />} />
           <Route path="/aboutme" element={<AboutMe />} />
           <Route path="/projects" element={<Projects />} />
-          <Route path="/musicblog" element={<MusicBlog />} />
+          <Route path="/music-blog" element={<MusicBlog />} />
 
           {/*For non organized links. Can update when there's a collection to put these under*/}
           <Route path="/osucompare" element={<Osucompare />} />

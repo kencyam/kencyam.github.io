@@ -23,7 +23,7 @@ export default function TreeArchive() {
           <TreeItem
             itemId="00006"
             label={
-              <Link to="/musicblog/00006">
+              <Link to="/music-blog/00006">
                 Olivia Rodrigo - You Seem Pretty Sad for a Girl So in Love
               </Link>
             }
@@ -33,21 +33,21 @@ export default function TreeArchive() {
           <TreeItem
             itemId="00005"
             label={
-              <Link to="/musicblog/00005">
+              <Link to="/music-blog/00005">
                 Bright Side Breathing - Harry Prasetya Tan
               </Link>
             }
           />
           <TreeItem
             itemId="00004"
-            label={<Link to="/musicblog/00004">Drake - Iceman</Link>}
+            label={<Link to="/music-blog/00004">Drake - Iceman</Link>}
           />
         </TreeItem>
         <TreeItem itemId="archive-may-2026" label="May (1)">
           <TreeItem
             itemId="00003"
             label={
-              <Link to="/musicblog/00003">Drop Dead - Olivia Rodrigo</Link>
+              <Link to="/music-blog/00003">Drop Dead - Olivia Rodrigo</Link>
             }
           />
         </TreeItem>
@@ -55,7 +55,7 @@ export default function TreeArchive() {
           <TreeItem
             itemId="00002"
             label={
-              <Link to="/musicblog/00002">
+              <Link to="/music-blog/00002">
                 2025 Billboard Hit Songs I Disiked
               </Link>
             }
@@ -65,7 +65,7 @@ export default function TreeArchive() {
           <TreeItem
             itemId="00001"
             label={
-              <Link to="/musicblog/00001">
+              <Link to="/music-blog/00001">
                 2025 Billboard Hit Songs I Liked
               </Link>
             }
@@ -102,7 +102,7 @@ export default function TreeArchive() {
     // 3. Check if it's a leaf (no children) and has a url
     if (clickedItem && clickedItem.url && !clickedItem.children) {
       //window.open(clickedItem.url, "_blank"); // Opens in a new tab
-      window.location.href = "#/musicblog/" + clickedItem.url; // Use this to open in the same tab
+      window.location.href = "#/music-blog/" + clickedItem.url; // Use this to open in the same tab
     }
   };
 

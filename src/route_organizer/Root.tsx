@@ -31,7 +31,7 @@ export default function Root() {
                 </Link>
               </li>
               <li>
-                <Link className="header-text" to="/musicblog">
+                <Link className="header-text" to="/music-blog">
                   Music Blog
                 </Link>
               </li>

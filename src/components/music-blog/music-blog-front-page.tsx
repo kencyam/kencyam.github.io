@@ -28,24 +28,24 @@ class MusicBlog extends Component {
               <b>Recent Posts</b>
             </u>
             <li>
-              <Link to="/musicblog/00007">
+              <Link to="/music-blog/00007">
                 Compilation of All Public Charted Billboard Songs Sorted By Year
                 (1959-Present)
               </Link>
             </li>
             <li>
-              <Link to="/musicblog/00006">misery. - pupsies</Link>
+              <Link to="/music-blog/00006">misery. - pupsies</Link>
             </li>
             <li>
-              <Link to="/musicblog/00005">
+              <Link to="/music-blog/00005">
                 Bright Side Breathing - Harry Prasetya Tan
               </Link>
             </li>
             <li>
-              <Link to="/musicblog/00004">Drake - Iceman</Link>
+              <Link to="/music-blog/00004">Drake - Iceman</Link>
             </li>
             <li>
-              <Link to="/musicblog/00003">Drop Dead - Olivia Rodrigo</Link>
+              <Link to="/music-blog/00003">Drop Dead - Olivia Rodrigo</Link>
             </li>
           </ul>
           {/*Here will be the types of blog posts and their # of entries, coupled with updated x days/weeks/months/years ago */}

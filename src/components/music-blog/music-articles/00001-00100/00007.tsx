@@ -10,7 +10,7 @@ export default function MusicArticle() {
       tag={[MusicTags.Miscellaneous]}
       isFinished={true}
     >
-      <Link to={"/musicblog/archives"}>Billboard Calendar Charts</Link>
+      <Link to={"/music-blog/archives"}>Billboard Calendar Charts</Link>
       <p>
         So a while ago, Billboard blocked viewing the history of what was on the
         Charts. If you want to see, you need to subscribe to them. Weirdly, you
@@ -51,7 +51,7 @@ export default function MusicArticle() {
         Hope that this archive is useful to anyone who wishes to learn more
         about pop music history.
       </p>
-      <Link to={"/musicblog/archives"}>Billboard Calendar Charts</Link>
+      <Link to={"/music-blog/archives"}>Billboard Calendar Charts</Link>
     </MusicArticleFormat>
   );
 }

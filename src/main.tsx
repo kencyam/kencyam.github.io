@@ -51,7 +51,7 @@ const router = createHashRouter([
         element: <Projects />,
       },
       {
-        path: "/musicblog",
+        path: "/music-blog",
         element: <MusicBlog />,
         children: [
           { index: true, element: <MusicArticle00007 /> }, //update this for initial element (i.e. new original for front page)

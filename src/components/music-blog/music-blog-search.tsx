@@ -19,7 +19,7 @@ export default function MusicBlogSearch() {
             style={{ paddingLeft: "0px", fontSize: "xx-large" }}
           >
             <li>
-              <Link to="/musicblog/00004">Iceman - Drake</Link>
+              <Link to="/music-blog/00004">Iceman - Drake</Link>
             </li>
           </ul>
         </div>
@@ -48,12 +48,12 @@ export default function MusicBlogSearch() {
             style={{ paddingLeft: "0px", fontSize: "xx-large" }}
           >
             <li>
-              <Link to="/musicblog/00002">
+              <Link to="/music-blog/00002">
                 2025 Billboard Hit Songs I Disiked
               </Link>
             </li>
             <li>
-              <Link to="/musicblog/00001">
+              <Link to="/music-blog/00001">
                 2025 Billboard Hit Songs I Liked
               </Link>
             </li>
@@ -73,15 +73,15 @@ export default function MusicBlogSearch() {
             style={{ paddingLeft: "0px", fontSize: "xx-large" }}
           >
             <li>
-              <Link to="/musicblog/00006">misery. - pupsies</Link>
+              <Link to="/music-blog/00006">misery. - pupsies</Link>
             </li>
             <li>
-              <Link to="/musicblog/00005">
+              <Link to="/music-blog/00005">
                 Bright Side Breathing - Harry Prasetya Tan
               </Link>
             </li>
             <li>
-              <Link to="/musicblog/00003">Drop Dead - Olivia Rodrigo</Link>
+              <Link to="/music-blog/00003">Drop Dead - Olivia Rodrigo</Link>
             </li>
           </ul>
         </div>
@@ -132,7 +132,7 @@ export default function MusicBlogSearch() {
             style={{ paddingLeft: "0px", fontSize: "xx-large" }}
           >
             <li>
-              <Link to="/musicblog/00007">
+              <Link to="/music-blog/00007">
                 Compilation of All Public Charted Billboard Songs Sorted By Year
                 (1959-Present)
               </Link>
@@ -153,7 +153,7 @@ export default function MusicBlogSearch() {
             style={{ paddingLeft: "0px", fontSize: "xx-large" }}
           >
             <li>
-              <Link to="/musicblog/00005">
+              <Link to="/music-blog/00005">
                 Bright Side Breathing - Harry Prasetya Tan
               </Link>
             </li>
