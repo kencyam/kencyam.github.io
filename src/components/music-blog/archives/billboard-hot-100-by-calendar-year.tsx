@@ -17,10 +17,7 @@ export default function BillboardHot100CalendarByYear() {
         <u>By Year</u>
       </h4>
       <p>~20-40KB each</p>
-      <a
-        href="src/components/music-blog/archives/downloadables/billboard_1959.csv"
-        download="billboard_1959.csv"
-      >
+      <a href="public\billboard_1959.csv" download="billboard_1959.csv">
         1959
       </a>{" "}
       <a
@@ -421,7 +418,7 @@ export default function BillboardHot100CalendarByYear() {
       </a>
       <p>
         <a
-          href="src/components/music-blog/archives/downloadables/billboard_1959.csv"
+          href="https://github.com/kencyam/kencyam.github.io/blob/main/src/components/music-blog/archives/downloadables/billboard_1979.csv?raw=true"
           download="test.csv"
         >
           Test
