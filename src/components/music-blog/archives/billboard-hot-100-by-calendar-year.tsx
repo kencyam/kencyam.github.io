@@ -419,14 +419,6 @@ export default function BillboardHot100CalendarByYear() {
       >
         2025
       </a>
-      <p>
-        <a
-          href="https://github.com/kencyam/kencyam.github.io/blob/main//archives/downloadables/billboard_1979.csv?raw=true"
-          download="test.csv"
-        >
-          Test
-        </a>
-      </p>
     </div>
   );
 }
