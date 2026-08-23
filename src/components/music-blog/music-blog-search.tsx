@@ -19,7 +19,12 @@ export default function MusicBlogSearch() {
             style={{ paddingLeft: "0px", fontSize: "xx-large" }}
           >
             <li>
-              <Link to="/music-blog/00004">Iceman - Drake</Link>
+              <Link to="/music-blog/00008">
+                You Seem Pretty Sad for a Girl So in Love - Olivia Rodrigo
+              </Link>
+            </li>
+            <li>
+              <Link to="/music-blog/00004">Drake - Iceman</Link>
             </li>
           </ul>
         </div>

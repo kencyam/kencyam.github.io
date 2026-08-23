@@ -28,6 +28,11 @@ class MusicBlog extends Component {
               <b>Recent Posts</b>
             </u>
             <li>
+              <Link to="/music-blog/00008">
+                You Seem Pretty Sad for a Girl So in Love - Olivia Rodrigo
+              </Link>
+            </li>
+            <li>
               <Link to="/music-blog/00007">
                 Compilation of All Public Charted Billboard Songs Sorted By Year
                 (1959-Present)
@@ -42,10 +47,7 @@ class MusicBlog extends Component {
               </Link>
             </li>
             <li>
-              <Link to="/music-blog/00004">Drake - Iceman</Link>
-            </li>
-            <li>
-              <Link to="/music-blog/00003">Drop Dead - Olivia Rodrigo</Link>
+              <Link to="/music-blog/00004">Iceman - Drake</Link>
             </li>
           </ul>
           {/*Here will be the types of blog posts and their # of entries, coupled with updated x days/weeks/months/years ago */}
@@ -56,7 +58,7 @@ class MusicBlog extends Component {
               </u>
             </h2>
             <h3>
-              <Link to={"search?tag=0"}>Album Reviews (1)</Link>
+              <Link to={"search?tag=0"}>Album Reviews (2)</Link>
             </h3>
             <h3>
               <Link to={"search?tag=1"}>Rambles (0)</Link>

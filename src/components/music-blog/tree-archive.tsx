@@ -121,6 +121,18 @@ export default function TreeArchive() {
       label: "2026",
       children: [
         {
+          id: "music-blog-archives-august-2026",
+          label: "August",
+          children: [
+            {
+              id: "00008",
+              label:
+                "You Seem Pretty Sad for a Girl So in Love - Olivia Rodrigo",
+              url: "00008",
+            },
+          ],
+        },
+        {
           id: "music-blog-archives-july-2026",
           label: "July",
           children: [
