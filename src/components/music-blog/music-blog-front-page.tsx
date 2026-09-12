@@ -28,6 +28,11 @@ class MusicBlog extends Component {
               <b>Recent Posts</b>
             </u>
             <li>
+              <Link to="/music-blog/00009">
+                I Will Always Love You - Dolly Parton
+              </Link>
+            </li>
+            <li>
               <Link to="/music-blog/00008">
                 You Seem Pretty Sad for a Girl So in Love - Olivia Rodrigo
               </Link>
@@ -45,9 +50,6 @@ class MusicBlog extends Component {
               <Link to="/music-blog/00005">
                 Bright Side Breathing - Harry Prasetya Tan
               </Link>
-            </li>
-            <li>
-              <Link to="/music-blog/00004">Iceman - Drake</Link>
             </li>
           </ul>
           {/*Here will be the types of blog posts and their # of entries, coupled with updated x days/weeks/months/years ago */}
@@ -67,7 +69,7 @@ class MusicBlog extends Component {
               <Link to={"search?tag=2"}>Ranking Lists (2)</Link>
             </h3>
             <h3>
-              <Link to={"search?tag=3"}>Singles Reviews (3)</Link>
+              <Link to={"search?tag=3"}>Singles Reviews (4)</Link>
             </h3>
             <h3>
               <Link to={"search?tag=4"}>Personal Nostalgia (0)</Link>

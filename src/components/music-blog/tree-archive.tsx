@@ -121,6 +121,17 @@ export default function TreeArchive() {
       label: "2026",
       children: [
         {
+          id: "music-blog-archives-september-2026",
+          label: "September",
+          children: [
+            {
+              id: "00009",
+              label: "I Will Always Love You - Dolly Parton",
+              url: "00009",
+            },
+          ],
+        },
+        {
           id: "music-blog-archives-august-2026",
           label: "August",
           children: [
