@@ -68,9 +68,9 @@ class Projects extends Component {
               <Cards>
                 <CustomCard
                   title="December osu! Storyboard"
-                  description="A storyboard project that pays homage to Elite Beat Agents (currently WIP)."
+                  description="A storyboard project that pays homage to Elite Beat Agents."
                   image={
-                    "https://upload.wikimedia.org/wikipedia/commons/1/1e/Osu%21_Logo_2016.svg"
+                    "https://assets.ppy.sh/beatmaps/2441621/covers/cover.jpg?1787478757"
                   }
                   url="https://osu.ppy.sh/beatmapsets/2441621#osu/5327098"
                   buttontext="Visit"
