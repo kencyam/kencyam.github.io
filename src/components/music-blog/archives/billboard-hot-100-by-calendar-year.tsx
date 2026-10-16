@@ -9,9 +9,9 @@ export default function BillboardHot100CalendarByYear() {
       </h3>
       <a
         href="/archives/downloadables/billboard_songs_by_chart_years.zip"
-        download="billboard_songs_by_chart_years.zip"
+        download="billboard_1959_2026.zip"
       >
-        DOWNLOAD ALL CSV HERE [1958-2025] (724KB)
+        DOWNLOAD ALL CSV HERE [1958-2026] (750KB)
       </a>
       <h4>
         <u>By Year</u>
