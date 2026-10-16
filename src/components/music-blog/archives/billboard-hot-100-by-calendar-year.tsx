@@ -418,6 +418,12 @@ export default function BillboardHot100CalendarByYear() {
         download="billboard_2025.csv"
       >
         2025
+      </a>{" "}
+      <a
+        href="/archives/downloadables/billboard_2026.csv"
+        download="billboard_2026.csv"
+      >
+        2026
       </a>
     </div>
   );

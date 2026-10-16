@@ -6,12 +6,19 @@ import { MusicTags } from "../../../../assets/enums";
 export default function MusicArticle() {
   return (
     <MusicArticleFormat
-      title="2025 Billboard Hit Songs I Liked"
-      datePublished="March 11, 2026"
+      title="2026 Billboard Hit Songs I Liked"
+      datePublished="XX, 2026"
       tag={[MusicTags.RankingLists]}
-      isFinished={true}
+      isFinished={false}
     >
-      <p>Opening paragraph talking about 2026</p>
+      <p>
+        Opening paragraph talking about 2026. Somehow it was an even bleaker
+        year than last year. I didn't mind 2025 at all, but this year was rough
+        for me to listen to. Talk about how there's a few songs I'd put here if
+        not for my rules, and I didn't expect this year to have so many songs to
+        be caught between years (CBY) or stop right at 8-9 weeks and peak at
+        21-25. I'll shout them out here as honorable mentions:
+      </p>
       {/**/}
       <MusicArticleBodyFormat>
         <MusicArticleSongInfoFormat
