@@ -121,6 +121,18 @@ export default function TreeArchive() {
       label: "2026",
       children: [
         {
+          id: "music-blog-archives-october-2026",
+          label: "October",
+          children: [
+            {
+              id: "00010",
+              label:
+                "October 2026 Youtube Random Low Viewcount Suggested Shoutouts",
+              url: "00010",
+            },
+          ],
+        },
+        {
           id: "music-blog-archives-september-2026",
           label: "September",
           children: [

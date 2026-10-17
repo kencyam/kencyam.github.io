@@ -28,6 +28,11 @@ class MusicBlog extends Component {
               <b>Recent Posts</b>
             </u>
             <li>
+              <Link to="/music-blog/00010">
+                October 2026 Youtube Random Low Viewcount Suggested Shoutouts
+              </Link>
+            </li>
+            <li>
               <Link to="/music-blog/00009">
                 I Will Always Love You - Dolly Parton
               </Link>
@@ -45,11 +50,6 @@ class MusicBlog extends Component {
             </li>
             <li>
               <Link to="/music-blog/00006">misery. - pupsies</Link>
-            </li>
-            <li>
-              <Link to="/music-blog/00005">
-                Bright Side Breathing - Harry Prasetya Tan
-              </Link>
             </li>
           </ul>
           {/*Here will be the types of blog posts and their # of entries, coupled with updated x days/weeks/months/years ago */}
@@ -69,7 +69,7 @@ class MusicBlog extends Component {
               <Link to={"search?tag=2"}>Ranking Lists (2)</Link>
             </h3>
             <h3>
-              <Link to={"search?tag=3"}>Singles Reviews (4)</Link>
+              <Link to={"search?tag=3"}>Singles Reviews (5)</Link>
             </h3>
             <h3>
               <Link to={"search?tag=4"}>Personal Nostalgia (0)</Link>
@@ -84,7 +84,7 @@ class MusicBlog extends Component {
               <Link to={"search?tag=7"}>Miscellaneous (1)</Link>
             </h3>
             <h3>
-              <Link to={"search?tag=8"}>Random Recommendations (1)</Link>
+              <Link to={"search?tag=8"}>Random Recommendations (2)</Link>
             </h3>
             <h3>
               <Link to={"search?tag=9"}>User Recommandations (0)</Link>

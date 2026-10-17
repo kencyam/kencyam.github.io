@@ -78,6 +78,11 @@ export default function MusicBlogSearch() {
             style={{ paddingLeft: "0px", fontSize: "xx-large" }}
           >
             <li>
+              <Link to="/music-blog/00010">
+                October 2026 Youtube Random Low Viewcount Suggested Shoutouts
+              </Link>
+            </li>
+            <li>
               <Link to="/music-blog/00009">
                 I Will Always Love You - Dolly Parton
               </Link>
@@ -162,6 +167,11 @@ export default function MusicBlogSearch() {
             className="remove-list-bullet"
             style={{ paddingLeft: "0px", fontSize: "xx-large" }}
           >
+            <li>
+              <Link to="/music-blog/00010">
+                October 2026 Youtube Random Low Viewcount Suggested Shoutouts
+              </Link>
+            </li>
             <li>
               <Link to="/music-blog/00005">
                 Bright Side Breathing - Harry Prasetya Tan

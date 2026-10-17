@@ -6,10 +6,10 @@ import { MusicTags } from "../../../../assets/enums";
 export default function MusicArticle() {
   return (
     <MusicArticleFormat
-      title="2025 Billboard Hit Songs I Liked"
-      datePublished="March 11, 2026"
+      title="2026 Billboard Hit Songs I Disliked"
+      datePublished="XX, 2026"
       tag={[MusicTags.RankingLists]}
-      isFinished={true}
+      isFinished={false}
     >
       <p>Opening paragraph talking about 2026</p>
       {/**/}
