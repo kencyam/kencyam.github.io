@@ -28,6 +28,9 @@ class MusicBlog extends Component {
               <b>Recent Posts</b>
             </u>
             <li>
+              <Link to="/music-blog/00011">Surfin' Safari - Beach Boys</Link>
+            </li>
+            <li>
               <Link to="/music-blog/00010">
                 October 2026 Youtube Random Low Viewcount Suggested Shoutouts
               </Link>
@@ -48,9 +51,6 @@ class MusicBlog extends Component {
                 (1959-Present)
               </Link>
             </li>
-            <li>
-              <Link to="/music-blog/00006">misery. - pupsies</Link>
-            </li>
           </ul>
           {/*Here will be the types of blog posts and their # of entries, coupled with updated x days/weeks/months/years ago */}
           <div style={{ textAlign: "center" }}>
@@ -60,7 +60,7 @@ class MusicBlog extends Component {
               </u>
             </h2>
             <h3>
-              <Link to={"search?tag=0"}>Album Reviews (2)</Link>
+              <Link to={"search?tag=0"}>Album Reviews (3)</Link>
             </h3>
             <h3>
               <Link to={"search?tag=1"}>Rambles (0)</Link>

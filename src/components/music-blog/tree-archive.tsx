@@ -121,6 +121,17 @@ export default function TreeArchive() {
       label: "2026",
       children: [
         {
+          id: "music-blog-archives-november-2026",
+          label: "November",
+          children: [
+            {
+              id: "00011",
+              label: "Surfin' Safari - Beach Boys",
+              url: "00011",
+            },
+          ],
+        },
+        {
           id: "music-blog-archives-october-2026",
           label: "October",
           children: [

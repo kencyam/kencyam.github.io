@@ -32,6 +32,7 @@ import MusicArticle00007 from "./components/music-blog/music-articles/00001-0010
 import MusicArticle00008 from "./components/music-blog/music-articles/00001-00100/00008";
 import MusicArticle00009 from "./components/music-blog/music-articles/00001-00100/00009";
 import MusicArticle00010 from "./components/music-blog/music-articles/00001-00100/00010";
+import MusicArticle00011 from "./components/music-blog/music-articles/00001-00100/00011";
 
 import BillboardHot100CalendarByYear from "./components/music-blog/archives/billboard-hot-100-by-calendar-year";
 //#endregion
@@ -58,7 +59,7 @@ const router = createHashRouter([
         path: "/music-blog",
         element: <MusicBlog />,
         children: [
-          { index: true, element: <MusicArticle00010 /> }, //update this for initial element (i.e. new original for front page)
+          { index: true, element: <MusicArticle00011 /> }, //update this for initial element (i.e. new original for front page)
           {
             path: "search/",
             element: <MusicBlogSearch />,
@@ -103,6 +104,10 @@ const router = createHashRouter([
           {
             path: "00010/",
             element: <MusicArticle00010 />,
+          },
+          {
+            path: "00011/",
+            element: <MusicArticle00011 />,
           },
         ],
       },
