@@ -6,7 +6,7 @@ import albumImage from "/src/components/music-blog/music-articles-images/drake-i
 export default function MusicArticle() {
   return (
     <MusicArticleFormat
-      title="Drake - Iceman"
+      title="Iceman - Drake"
       datePublished="June 5, 2026"
       tag={[MusicTags.AlbumReviews]}
       isFinished={true}
@@ -14,7 +14,7 @@ export default function MusicArticle() {
       <img
         className="center-body"
         src={albumImage}
-        alt="Drake - Iceman album image"
+        alt="Iceman - Drake album image"
       />
 
       <p>

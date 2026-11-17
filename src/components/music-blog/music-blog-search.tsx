@@ -27,7 +27,7 @@ export default function MusicBlogSearch() {
               </Link>
             </li>
             <li>
-              <Link to="/music-blog/00004">Drake - Iceman</Link>
+              <Link to="/music-blog/00004">Iceman - Drake</Link>
             </li>
           </ul>
         </div>
@@ -40,7 +40,14 @@ export default function MusicBlogSearch() {
               <b>Rambles</b>
             </u>
           </h3>
-          <h4>None yet!</h4>
+          <ul
+            className="remove-list-bullet"
+            style={{ paddingLeft: "0px", fontSize: "xx-large" }}
+          >
+            <li>
+              <Link to="/music-blog/00012">Christmas Songs in November</Link>
+            </li>
+          </ul>
         </div>
       );
     case MusicTags.RankingLists:

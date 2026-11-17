@@ -28,6 +28,9 @@ class MusicBlog extends Component {
               <b>Recent Posts</b>
             </u>
             <li>
+              <Link to="/music-blog/00012">Christmas Songs in November</Link>
+            </li>
+            <li>
               <Link to="/music-blog/00011">Surfin' Safari - Beach Boys</Link>
             </li>
             <li>
@@ -45,12 +48,6 @@ class MusicBlog extends Component {
                 You Seem Pretty Sad for a Girl So in Love - Olivia Rodrigo
               </Link>
             </li>
-            <li>
-              <Link to="/music-blog/00007">
-                Compilation of All Public Charted Billboard Songs Sorted By Year
-                (1959-Present)
-              </Link>
-            </li>
           </ul>
           {/*Here will be the types of blog posts and their # of entries, coupled with updated x days/weeks/months/years ago */}
           <div style={{ textAlign: "center" }}>
@@ -63,7 +60,7 @@ class MusicBlog extends Component {
               <Link to={"search?tag=0"}>Album Reviews (3)</Link>
             </h3>
             <h3>
-              <Link to={"search?tag=1"}>Rambles (0)</Link>
+              <Link to={"search?tag=1"}>Rambles (1)</Link>
             </h3>
             <h3>
               <Link to={"search?tag=2"}>Ranking Lists (2)</Link>
