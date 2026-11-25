@@ -2,8 +2,8 @@ import React, { Component } from "react";
 
 import "../aboutme.css";
 
-import { SimpleTreeView } from "@mui/x-tree-view/SimpleTreeView";
-import { TreeItem } from "@mui/x-tree-view/TreeItem";
+//import { SimpleTreeView } from "@mui/x-tree-view/SimpleTreeView";
+//import { TreeItem } from "@mui/x-tree-view/TreeItem";
 
 import MusicArticleFront from "./music-articles/00001-00100/00005";
 
@@ -28,6 +28,11 @@ class MusicBlog extends Component {
               <b>Recent Posts</b>
             </u>
             <li>
+              <Link to="/music-blog/00013">
+                Angel of My Dreams - JADE: Review and Ramble
+              </Link>
+            </li>
+            <li>
               <Link to="/music-blog/00012">Christmas Songs in November</Link>
             </li>
             <li>
@@ -43,11 +48,6 @@ class MusicBlog extends Component {
                 I Will Always Love You - Dolly Parton
               </Link>
             </li>
-            <li>
-              <Link to="/music-blog/00008">
-                You Seem Pretty Sad for a Girl So in Love - Olivia Rodrigo
-              </Link>
-            </li>
           </ul>
           {/*Here will be the types of blog posts and their # of entries, coupled with updated x days/weeks/months/years ago */}
           <div style={{ textAlign: "center" }}>
@@ -60,13 +60,13 @@ class MusicBlog extends Component {
               <Link to={"search?tag=0"}>Album Reviews (3)</Link>
             </h3>
             <h3>
-              <Link to={"search?tag=1"}>Rambles (1)</Link>
+              <Link to={"search?tag=1"}>Rambles (2)</Link>
             </h3>
             <h3>
               <Link to={"search?tag=2"}>Ranking Lists (2)</Link>
             </h3>
             <h3>
-              <Link to={"search?tag=3"}>Singles Reviews (5)</Link>
+              <Link to={"search?tag=3"}>Singles Reviews (6)</Link>
             </h3>
             <h3>
               <Link to={"search?tag=4"}>Personal Nostalgia (0)</Link>

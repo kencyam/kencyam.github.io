@@ -261,3 +261,9 @@
 .links li :hover {
   text-decoration: underline;
 }
+
+/*May need to make more specific later if needed*/
+img {
+  max-height: 100%;
+  max-width: 100%;
+}

@@ -45,6 +45,11 @@ export default function MusicBlogSearch() {
             style={{ paddingLeft: "0px", fontSize: "xx-large" }}
           >
             <li>
+              <Link to="/music-blog/00013">
+                Angel of My Dreams - JADE: Review and Ramble
+              </Link>
+            </li>
+            <li>
               <Link to="/music-blog/00012">Christmas Songs in November</Link>
             </li>
           </ul>
@@ -87,6 +92,11 @@ export default function MusicBlogSearch() {
             className="remove-list-bullet"
             style={{ paddingLeft: "0px", fontSize: "xx-large" }}
           >
+            <li>
+              <Link to="/music-blog/00013">
+                Angel of My Dreams - JADE: Review and Ramble
+              </Link>
+            </li>
             <li>
               <Link to="/music-blog/00010">
                 October 2026 Youtube Random Low Viewcount Suggested Shoutouts

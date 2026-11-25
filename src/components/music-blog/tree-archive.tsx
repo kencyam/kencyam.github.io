@@ -125,6 +125,11 @@ export default function TreeArchive() {
           label: "November",
           children: [
             {
+              id: "00013",
+              label: "Angel of My Dreams - JADE: Review and Ramble",
+              url: "00013",
+            },
+            {
               id: "00012",
               label: "Christmas Songs in November",
               url: "00012",

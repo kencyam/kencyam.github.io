@@ -82,7 +82,7 @@ export default function MusicArticle() {
         TikTok to latch onto it.
       </p>
       <p>
-        Also if one wants to hear more of pupsies' songs, check their
+        Also if one wants to hear more of pupsies' songs, check their{" "}
         <a href="https://soundcloud.com/pupsies" target="_blank">
           Soundcloud
         </a>
